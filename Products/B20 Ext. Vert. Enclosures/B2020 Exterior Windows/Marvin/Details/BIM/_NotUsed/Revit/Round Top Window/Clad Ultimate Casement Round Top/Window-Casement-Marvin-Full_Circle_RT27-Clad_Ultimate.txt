@@ -1,0 +1,7 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+
+CUCAFCIR2750,Marvin Windows and Doors,Clad Ultimate Casement Full Circle RT27,24,24,DP50,2424 FIXED FCIR27,CUCAFCIR2750
+CUCAFCIR3950,Marvin Windows and Doors,Clad Ultimate Casement Full Circle RT27,36,36,DP50,3636 FIXED FCIR27,CUCAFCIR3950
+CUCAFCIR5150,Marvin Windows and Doors,Clad Ultimate Casement Full Circle RT27,48,48,DP50,4848 FIXED FCIR27,CUCAFCIR5150
+CUCAFCIR6350,Marvin Windows and Doors,Clad Ultimate Casement Full Circle RT27,60,60,DP50,6060 FIXED FCIR27,CUCAFCIR6350
+CUCAFCIR7550,Marvin Windows and Doors,Clad Ultimate Casement Full Circle RT27,72,72,DP50,7272 FIXED FCIR27,CUCAFCIR7550

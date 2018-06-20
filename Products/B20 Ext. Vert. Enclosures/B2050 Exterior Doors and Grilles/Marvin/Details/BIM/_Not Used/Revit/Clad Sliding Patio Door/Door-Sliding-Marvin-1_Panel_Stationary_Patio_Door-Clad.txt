@@ -1,0 +1,14 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CSPD26R66R,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,30,78,DP40,3078 PATIO DOOR,CSPD26R66R
+CSPD30R66R,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,36,78,DP40,3678 PATIO DOOR,CSPD30R66R
+CSPD40R66R,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,48,78,DP40,4878 PATIO DOOR,CSPD40R66R
+CSPD2668,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,31,80,DP40,3080 PATIO DOOR,CSPD2668
+CSPD3068,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,37,80,DP40,3680 PATIO DOOR,CSPD3068
+CSPD4068,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,49,80,DP40,4880 PATIO DOOR,CSPD4068
+CSPD2680,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,31,96,DP40,3096 PATIO DOOR,CSPD2680
+CSPD3080,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,37,96,DP40,3696 PATIO DOOR,CSPD3080
+CSPD4080,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,49,96,DP40,4896 PATIO DOOR,CSPD4080
+CSPD2690,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,31,108,DP40,30108 PATIO DOOR,CSPD2690
+CSPD3090,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,37,108,DP40,36108 PATIO DOOR,CSPD3090
+CSPD4090,Marvin Windows and Doors,Clad Sliding Stationary Patio Door,49,108,DP40,48108 PATIO DOOR,CSPD4090
+

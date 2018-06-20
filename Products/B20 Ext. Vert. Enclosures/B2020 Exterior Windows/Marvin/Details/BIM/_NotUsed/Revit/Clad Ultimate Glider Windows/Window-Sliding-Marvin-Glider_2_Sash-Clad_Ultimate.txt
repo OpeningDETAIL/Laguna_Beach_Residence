@@ -1,0 +1,81 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Egress Window##other##,Design Pressure XX##other##,Design Pressure XO/OX##other##,Description##other##,Model##other##
+
+CUGL3020,Marvin Windows and Doors,Clad Ultimate Glider,36,24,No,DP50,DP50,3624 GLDR,CUGL3020
+CUGL3026,Marvin Windows and Doors,Clad Ultimate Glider,36,30,No,DP50,DP50,3630 GLDR,CUGL3026
+CUGL3030,Marvin Windows and Doors,Clad Ultimate Glider,36,36,No,DP50,DP50,3636 GLDR,CUGL3030
+CUGL3036,Marvin Windows and Doors,Clad Ultimate Glider,36,42,No,DP50,DP50,3642 GLDR,CUGL3036
+CUGL3040,Marvin Windows and Doors,Clad Ultimate Glider,36,48,No,DP50,DP50,3648 GLDR,CUGL3040
+CUGL3046,Marvin Windows and Doors,Clad Ultimate Glider,36,54,No,DP50,DP50,3654 GLDR,CUGL3046
+CUGL3050,Marvin Windows and Doors,Clad Ultimate Glider,36,60,No,DP50,DP50,3660 GLDR,CUGL3050
+CUGL3056,Marvin Windows and Doors,Clad Ultimate Glider,36,66,No,DP50,DP50,3666 GLDR,CUGL3056
+CUGL3060,Marvin Windows and Doors,Clad Ultimate Glider,36,72,No,DP50,DP50,3672 GLDR,CUGL3060
+
+CUGL3620,Marvin Windows and Doors,Clad Ultimate Glider,42,24,No,DP50,DP50,4224 GLDR,CUGL3620
+CUGL3626,Marvin Windows and Doors,Clad Ultimate Glider,42,30,No,DP50,DP50,4230 GLDR,CUGL3626
+CUGL3630,Marvin Windows and Doors,Clad Ultimate Glider,42,36,No,DP50,DP50,4236 GLDR,CUGL3630
+CUGL3636,Marvin Windows and Doors,Clad Ultimate Glider,42,42,No,DP50,DP50,4242 GLDR,CUGL3636
+CUGL3640,Marvin Windows and Doors,Clad Ultimate Glider,42,48,No,DP50,DP50,4248 GLDR,CUGL3640
+CUGL3646,Marvin Windows and Doors,Clad Ultimate Glider,42,54,No,DP50,DP50,4254 GLDR,CUGL3646
+CUGL3650,Marvin Windows and Doors,Clad Ultimate Glider,42,60,No,DP50,DP50,4260 GLDR,CUGL3650
+CUGL3656,Marvin Windows and Doors,Clad Ultimate Glider,42,66,No,DP50,DP50,4266 GLDR,CUGL3656
+CUGL3660,Marvin Windows and Doors,Clad Ultimate Glider,42,72,No,DP50,DP50,4272 GLDR,CUGL3660
+
+CUGL4020,Marvin Windows and Doors,Clad Ultimate Glider,48,24,No,DP50,DP50,4824 GLDR,CUGL4020
+CUGL4026,Marvin Windows and Doors,Clad Ultimate Glider,48,30,No,DP50,DP50,4830 GLDR,CUGL4026
+CUGL4030,Marvin Windows and Doors,Clad Ultimate Glider,48,36,No,DP50,DP50,4836 GLDR,CUGL4030
+CUGL4036,Marvin Windows and Doors,Clad Ultimate Glider,48,42,No,DP50,DP50,4842 GLDR,CUGL4036
+CUGL4040,Marvin Windows and Doors,Clad Ultimate Glider,48,48,Yes,DP50,DP50,4848 GLDR,CUGL4040
+CUGL4046,Marvin Windows and Doors,Clad Ultimate Glider,48,54,Yes,DP50,DP50,4854 GLDR,CUGL4046
+CUGL4050,Marvin Windows and Doors,Clad Ultimate Glider,48,60,Yes,DP50,DP50,4860 GLDR,CUGL4050
+CUGL4056,Marvin Windows and Doors,Clad Ultimate Glider,48,66,Yes,DP50,DP50,4866 GLDR,CUGL4056
+CUGL4060,Marvin Windows and Doors,Clad Ultimate Glider,48,72,Yes,DP50,DP50,4872 GLDR,CUGL4060
+
+CUGL4620,Marvin Windows and Doors,Clad Ultimate Glider,54,24,No,DP50,DP50,5424 GLDR,CUGL4620
+CUGL4626,Marvin Windows and Doors,Clad Ultimate Glider,54,30,No,DP50,DP50,5430 GLDR,CUGL4626
+CUGL4630,Marvin Windows and Doors,Clad Ultimate Glider,54,36,No,DP50,DP50,5436 GLDR,CUGL4630
+CUGL4636,Marvin Windows and Doors,Clad Ultimate Glider,54,42,Yes,DP50,DP50,5442 GLDR,CUGL4636
+CUGL4640,Marvin Windows and Doors,Clad Ultimate Glider,54,48,Yes,DP50,DP50,5448 GLDR,CUGL4640
+CUGL4646,Marvin Windows and Doors,Clad Ultimate Glider,54,54,Yes,DP50,DP50,5454 GLDR,CUGL4646
+CUGL4650,Marvin Windows and Doors,Clad Ultimate Glider,54,60,Yes,DP50,DP50,5460 GLDR,CUGL4650
+CUGL4656,Marvin Windows and Doors,Clad Ultimate Glider,54,66,Yes,DP50,DP50,5466 GLDR,CUGL4656
+CUGL4660,Marvin Windows and Doors,Clad Ultimate Glider,54,72,Yes,DP50,DP50,5472 GLDR,CUGL4660
+
+CUGL5020,Marvin Windows and Doors,Clad Ultimate Glider,60,24,No,DP35,DP50,6024 GLDR,CUGL5020
+CUGL5026,Marvin Windows and Doors,Clad Ultimate Glider,60,30,No,DP35,DP50,6030 GLDR,CUGL5026
+CUGL5030,Marvin Windows and Doors,Clad Ultimate Glider,60,36,Yes,DP35,DP50,6036 GLDR,CUGL5030
+CUGL5036,Marvin Windows and Doors,Clad Ultimate Glider,60,42,Yes,DP35,DP50,6042 GLDR,CUGL5036
+CUGL5040,Marvin Windows and Doors,Clad Ultimate Glider,60,48,Yes,DP35,DP50,6048 GLDR,CUGL5040
+CUGL5046,Marvin Windows and Doors,Clad Ultimate Glider,60,54,Yes,DP35,DP50,6054 GLDR,CUGL5046
+CUGL5050,Marvin Windows and Doors,Clad Ultimate Glider,60,60,Yes,DP35,DP50,6060 GLDR,CUGL5050
+CUGL5056,Marvin Windows and Doors,Clad Ultimate Glider,60,66,Yes,DP35,DP50,6066 GLDR,CUGL5056
+CUGL5060,Marvin Windows and Doors,Clad Ultimate Glider,60,72,Yes,DP35,DP50,6072 GLDR,CUGL5060
+
+CUGL5620,Marvin Windows and Doors,Clad Ultimate Glider,66,24,No,DP35,DP40,6624 GLDR,CUGL5620
+CUGL5626,Marvin Windows and Doors,Clad Ultimate Glider,66,30,No,DP35,DP40,6630 GLDR,CUGL5626
+CUGL5630,Marvin Windows and Doors,Clad Ultimate Glider,66,36,Yes,DP35,DP40,6636 GLDR,CUGL5630
+CUGL5636,Marvin Windows and Doors,Clad Ultimate Glider,66,42,Yes,DP35,DP40,6642 GLDR,CUGL5636
+CUGL5640,Marvin Windows and Doors,Clad Ultimate Glider,66,48,Yes,DP35,DP40,6648 GLDR,CUGL5640
+CUGL5646,Marvin Windows and Doors,Clad Ultimate Glider,66,54,Yes,DP35,DP40,6654 GLDR,CUGL5646
+CUGL5650,Marvin Windows and Doors,Clad Ultimate Glider,66,60,Yes,DP35,DP40,6660 GLDR,CUGL5650
+CUGL5656,Marvin Windows and Doors,Clad Ultimate Glider,66,66,Yes,DP35,DP40,6666 GLDR,CUGL5656
+CUGL5660,Marvin Windows and Doors,Clad Ultimate Glider,66,72,Yes,DP35,DP40,6672 GLDR,CUGL5660
+
+CUGL6020,Marvin Windows and Doors,Clad Ultimate Glider,72,24,No,DP35,DP40,7224 GLDR,CUGL6020
+CUGL6026,Marvin Windows and Doors,Clad Ultimate Glider,72,30,No,DP35,DP40,7230 GLDR,CUGL6026
+CUGL6030,Marvin Windows and Doors,Clad Ultimate Glider,72,36,Yes,DP35,DP40,7236 GLDR,CUGL6030
+CUGL6036,Marvin Windows and Doors,Clad Ultimate Glider,72,42,Yes,DP35,DP40,7242 GLDR,CUGL6036
+CUGL6040,Marvin Windows and Doors,Clad Ultimate Glider,72,48,Yes,DP35,DP40,7248 GLDR,CUGL6040
+CUGL6046,Marvin Windows and Doors,Clad Ultimate Glider,72,54,Yes,DP35,DP40,7254 GLDR,CUGL6046
+CUGL6050,Marvin Windows and Doors,Clad Ultimate Glider,72,60,Yes,DP35,DP40,7260 GLDR,CUGL6050
+CUGL6056,Marvin Windows and Doors,Clad Ultimate Glider,72,66,Yes,DP35,DP40,7266 GLDR,CUGL6056
+CUGL6060,Marvin Windows and Doors,Clad Ultimate Glider,72,72,Yes,DP35,DP40,7272 GLDR,CUGL6060
+
+
+
+
+
+
+
+
+
+

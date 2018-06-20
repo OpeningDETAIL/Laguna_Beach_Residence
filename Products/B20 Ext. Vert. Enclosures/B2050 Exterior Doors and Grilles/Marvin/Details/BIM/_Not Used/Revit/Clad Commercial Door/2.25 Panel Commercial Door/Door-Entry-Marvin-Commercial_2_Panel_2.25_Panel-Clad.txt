@@ -1,0 +1,10 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Description##other##,Model##other##
+CMCD6070,Marvin Windows and Doors,Clad Commercial Door 2.25,72,84,3684 GL DOOR,CMCD6070
+CMCD6080,Marvin Windows and Doors,Clad Commercial Door 2.25,72,96,3696 GL DOOR,CMCD6080
+CMCD60100,Marvin Windows and Doors,Clad Commercial Door 2.25,72,120,36120 GL DOOR,CMCD60100
+CMCD7070,Marvin Windows and Doors,Clad Commercial Door 2.25,84,84,4284 GL DOOR,CMCD7070
+CMCD7080,Marvin Windows and Doors,Clad Commercial Door 2.25,84,96,4296 GL DOOR,CMCD7080
+CMCD70100,Marvin Windows and Doors,Clad Commercial Door 2.25,84,120,42120 GL DOOR,CMCD70100
+CMCD8070,Marvin Windows and Doors,Clad Commercial Door 2.25,96,84,4884 GL DOOR,CMCD8070
+CMCD8080,Marvin Windows and Doors,Clad Commercial Door 2.25,96,96,4896 GL DOOR,CMCD8080
+CMCD80100,Marvin Windows and Doors,Clad Commercial Door 2.25,96,120,48120 GL DOOR,CMCD80100

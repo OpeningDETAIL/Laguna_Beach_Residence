@@ -1,0 +1,8 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUIFDT80R16,Marvin Windows and Doors,Clad Ultimate Inswing French Door IS Sidelite Transom,96,18,DP40,9618 FR DR TR,CUIFDT80R16
+CUIFDT80R20,Marvin Windows and Doors,Clad Ultimate Inswing French Door IS Sidelite Transom,96,24,DP40,9624 FR DR TR,CUIFDT80R20
+CUIFDT80R26,Marvin Windows and Doors,Clad Ultimate Inswing French Door IS Sidelite Transom,96,30,DP40,9630 FR DR TR,CUIFDT80R26
+CUIFDT9216,Marvin Windows and Doors,Clad Ultimate Inswing French Door IS Sidelite Transom,110,18,DP40,11018 FR DR TR,CUIFDT9216
+CUIFDT9220,Marvin Windows and Doors,Clad Ultimate Inswing French Door IS Sidelite Transom,110,24,DP40,11024 FR DR TR,CUIFDT9220
+CUIFDT9226,Marvin Windows and Doors,Clad Ultimate Inswing French Door IS Sidelite Transom,110,30,DP40,11030 FR DR TR,CUIFDT9226
+

@@ -1,0 +1,6 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+
+CUCART4017,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT29,40,17,DP50,4017 FIXED RT29,CUCART4017
+CUCART4817,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT29,48,17,DP50,4817 FIXED RT29,CUCART4817
+CUCART5617,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT29,56,17,DP50,5617 FIXED RT29,CUCART5617
+CUCART7217,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT29,72,17,DP50,7217 FIXED RT29,CUCART7217

@@ -1,0 +1,17 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUSFD26R66R,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,30,78,DP40,3078 SL FR DOOR,CUSFD26R66R
+CUSFD30R66R,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,36,78,DP40,3678 SL FR DOOR,CUSFD30R66R
+CUSFD40R66R,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,48,78,DP40,4878 SL FR DOOR,CUSFD40R66R
+CUSFD2668,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,31,80,DP40,3080 SL FR DOOR,CUSFD2668
+CUSFD2670,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,31,84,DP40,3084 SL FR DOOR,CUSFD2670
+CUSFD2680,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,31,96,DP40,3096 SL FR DOOR,CUSFD2680
+CUSFD2690,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,31,108,DP40,30108 SL FR DOOR,CUSFD2690
+CUSFD3068,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,37,80,DP40,3680 SL FR DOOR,CUSFD3068
+CUSFD3070,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,37,84,DP40,3684 SL FR DOOR,CUSFD3070
+CUSFD3080,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,37,96,DP40,3696 SL FR DOOR,CUSFD3080
+CUSFD3090,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,37,108,DP40,36108 SL FR DOOR,CUSFD3090
+CUSFD4068,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,49,80,DP40,4880 SL FR DOOR,CUSFD4068
+CUSFD4070,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,49,84,DP40,4884 SL FR DOOR,CUSFD4070
+CUSFD4080,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,49,96,DP40,4896 SL FR DOOR,CUSFD4080
+CUSFD4090,Marvin Windows and Doors,Clad Ultimate Sliding Stationary French Door,49,108,DP40,48108 SL FR DOOR,CUSFD4090
+

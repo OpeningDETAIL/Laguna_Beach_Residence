@@ -1,0 +1,31 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+
+
+CUCART2412,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,24,12,DP50,2412 FIXED RT1,CUCART2412
+
+CUCART2814,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,28,14,DP50,2814 FIXED RT1,CUCART2814 
+
+CUCART3216,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,32,16,DP50,3216 FIXED RT1,CUCART3216  
+ 
+CUCART3218,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,32,18,DP50,3218 FIXED RT1,CUCART3218 
+
+CUCART4020,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,40,20,DP50,4020 FIXED RT1,CUCART4020  
+ 
+CUCART4824,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,48,24,DP50,4824 FIXED RT1,CUCART4824 
+
+CUCART5628,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,56,28,DP50,5628 FIXED RT1,CUCART5628 
+ 
+CUCART6030,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,60,30,DP50,6030 FIXED RT1,CUCART6030 
+
+CUCART6432,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,64,32,DP50,6432 FIXED RT1,CUCART6432 
+ 
+CUCART7236,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,72,36,DP50,7236 FIXED RT1,CUCART7236 
+ 
+CUCART8442,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,84,42,Not Rated,8442 FIXED RT1,CUCART8442 
+ 
+CUCART9648,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,96,48,Not Rated,9648 FIXED RT1,CUCART9648 
+ 
+CUCART10854,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,108,54,Not Rated,10854 FIXED RT1,CUCART10854 
+ 
+CUCART12060,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT1,120,60,Not Rated,12060 FIXED RT1,CUCART12060 
+

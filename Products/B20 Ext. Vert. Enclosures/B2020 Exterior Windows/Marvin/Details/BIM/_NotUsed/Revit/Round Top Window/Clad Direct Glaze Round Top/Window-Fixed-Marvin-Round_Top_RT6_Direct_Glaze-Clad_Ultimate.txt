@@ -1,0 +1,7 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,RO Radius##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CRT2511DH,Marvin Windows and Doors,Clad Direct Glaze Ultimate Round Top RT6,25,11,24 1/2,DP40,2511 FIXED RT6,CRT2511DH
+CRT3123DH,Marvin Windows and Doors,Clad Direct Glaze Ultimate Round Top RT6,31,23,30 1/2,DP40,3123 FIXED RT6,CRT3123DH
+CRT3547DH,Marvin Windows and Doors,Clad Direct Glaze Ultimate Round Top RT6,35,47,30 1/2,DP40,3547 FIXED RT6,CRT3547DH
+CRT3771DH,Marvin Windows and Doors,Clad Direct Glaze Ultimate Round Top RT6,37,71,40 1/2,DP40,3771 FIXED RT6,CRT3547DH
+CRT5135DH,Marvin Windows and Doors,Clad Direct Glaze Ultimate Round Top RT6,51,35,40 1/2,DP40,5135 FIXED RT6,CRT5135DH
+CRT7571DH,Marvin Windows and Doors,Clad Direct Glaze Ultimate Round Top RT6,75,71,72 1/2,DP40,7571 FIXED RT6,CRT7571DH

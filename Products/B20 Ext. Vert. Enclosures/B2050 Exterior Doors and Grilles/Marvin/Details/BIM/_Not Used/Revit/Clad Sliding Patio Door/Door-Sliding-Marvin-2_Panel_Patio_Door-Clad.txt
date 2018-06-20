@@ -1,0 +1,23 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CSPD50R66R,Marvin Windows and Doors,Clad Sliding Patio Door,59,78,DP40,6078 SL DOOR,CSPD50R66R
+CSPD60R66R,Marvin Windows and Doors,Clad Sliding Patio Door,71,78,DP40,7278 SL DOOR,CSPD60R66R
+CSPD80R66R,Marvin Windows and Doors,Clad Sliding Patio Door,95,78,DP40,9678 SL DOOR,CSPD80R66R
+CSPD5068,Marvin Windows and Doors,Clad Sliding Patio Door,60,80,DP40,6080 SL DOOR,CSPD5068
+CSPD50R68,Marvin Windows and Doors,Clad Sliding Patio Door,59,80,DP40,6080 SL DOOR,CSPD50R68
+CSPD6068,Marvin Windows and Doors,Clad Sliding Patio Door,72,80,DP40,7280 SL DOOR,CSPD6068
+CSPD60R68,Marvin Windows and Doors,Clad Sliding Patio Door,71,80,DP40,7280 SL DOOR,CSPD60R68
+CSPD6668,Marvin Windows and Doors,Clad Sliding Patio Door,77,80,DP40,7880 SL DOOR,CSPD6668
+CSPD8068,Marvin Windows and Doors,Clad Sliding Patio Door,96,80,DP40,9680 SL DOOR,CSPD8068
+CSPD80R68,Marvin Windows and Doors,Clad Sliding Patio Door,95,80,DP40,9680 SL DOOR,CSPD80R68
+CSPD5080,Marvin Windows and Doors,Clad Sliding Patio Door,60,96,DP30,6096 SL DOOR,CSPD5080
+CSPD50R80,Marvin Windows and Doors,Clad Sliding Patio Door,59,96,DP30,6096 SL DOOR,CSPD50R80
+CSPD6080,Marvin Windows and Doors,Clad Sliding Patio Door,72,96,DP30,7296 SL DOOR,CSPD6080
+CSPD60R80,Marvin Windows and Doors,Clad Sliding Patio Door,71,96,DP30,7296 SL DOOR,CSPD60R80
+CSPD8080,Marvin Windows and Doors,Clad Sliding Patio Door,96,96,DP30,9696 SL DOOR,CSPD8080
+CSPD80R80,Marvin Windows and Doors,Clad Sliding Patio Door,95,96,DP30,9696 SL DOOR,CSPD80R80
+CSPD5090,Marvin Windows and Doors,Clad Sliding Patio Door,60,108,DP30,60108 SL DOOR,CSPD5090
+CSPD50R90,Marvin Windows and Doors,Clad Sliding Patio Door,59,108,DP30,60108 SL DOOR,CSPD50R90
+CSPD6090,Marvin Windows and Doors,Clad Sliding Patio Door,72,108,DP30,72108 SL DOOR,CSPD6090
+CSPD60R90,Marvin Windows and Doors,Clad Sliding Patio Door,71,108,DP30,72108 SL DOOR,CSPD60R90
+CSPD8090,Marvin Windows and Doors,Clad Sliding Patio Door,96,108,DP30,96108 SL DOOR,CSPD8090
+CSPD80R90,Marvin Windows and Doors,Clad Sliding Patio Door,95,108,DP30,96108 SL DOOR,CSPD80R90

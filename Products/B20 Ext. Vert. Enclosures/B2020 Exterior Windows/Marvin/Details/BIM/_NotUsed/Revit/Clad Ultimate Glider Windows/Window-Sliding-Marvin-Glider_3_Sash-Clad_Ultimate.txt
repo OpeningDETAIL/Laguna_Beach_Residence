@@ -1,0 +1,31 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Egress Window##other##,Design Pressure##other##,Description##other##,Model##other##
+ 
+CUGLTS6020,Marvin Windows and Doors,Clad Ultimate Glider,72,24,No,DP35,7224 GLDR,CUGLTS6020
+CUGLTS6026,Marvin Windows and Doors,Clad Ultimate Glider,72,30,No,DP35,7230 GLDR,CUGLTS6026
+CUGLTS6030,Marvin Windows and Doors,Clad Ultimate Glider,72,36,No,DP35,7236 GLDR,CUGLTS6030
+CUGLTS6036,Marvin Windows and Doors,Clad Ultimate Glider,72,42,No,DP35,7242 GLDR,CUGLTS6036
+CUGLTS6040,Marvin Windows and Doors,Clad Ultimate Glider,72,48,No,DP35,7248 GLDR,CUGLTS6040
+CUGLTS6046,Marvin Windows and Doors,Clad Ultimate Glider,72,54,No,DP35,7254 GLDR,CUGLTS6046
+CUGLTS6050,Marvin Windows and Doors,Clad Ultimate Glider,72,60,No,DP35,7260 GLDR,CUGLTS6050
+CUGLTS6056,Marvin Windows and Doors,Clad Ultimate Glider,72,66,No,DP35,7266 GLDR,CUGLTS6056
+CUGLTS6060,Marvin Windows and Doors,Clad Ultimate Glider,72,72,No,DP35,7272 GLDR,CUGLTS6060
+
+CUGLTS8020,Marvin Windows and Doors,Clad Ultimate Glider,96,24,No,DP35,9624 GLDR,CUGLTS8020
+CUGLTS8026,Marvin Windows and Doors,Clad Ultimate Glider,96,30,No,DP35,9630 GLDR,CUGLTS8026
+CUGLTS8030,Marvin Windows and Doors,Clad Ultimate Glider,96,36,No,DP35,9636 GLDR,CUGLTS8030
+CUGLTS8036,Marvin Windows and Doors,Clad Ultimate Glider,96,42,No,DP35,9642 GLDR,CUGLTS8036
+CUGLTS8040,Marvin Windows and Doors,Clad Ultimate Glider,96,48,Yes,DP35,9648 GLDR,CUGLTS8040
+CUGLTS8046,Marvin Windows and Doors,Clad Ultimate Glider,96,54,Yes,DP35,9654 GLDR,CUGLTS8046
+CUGLTS8050,Marvin Windows and Doors,Clad Ultimate Glider,96,60,Yes,DP35,9660 GLDR,CUGLTS8050
+CUGLTS8056,Marvin Windows and Doors,Clad Ultimate Glider,96,66,Yes,DP35,9666 GLDR,CUGLTS8056
+CUGLTS8060,Marvin Windows and Doors,Clad Ultimate Glider,96,72,Yes,DP35,9672 GLDR,CUGLTS8060
+
+CUGLTS10020,Marvin Windows and Doors,Clad Ultimate Glider,120,24,No,DP35,12024 GLDR,CUGLTS10020
+CUGLTS10026,Marvin Windows and Doors,Clad Ultimate Glider,120,30,No,DP35,12030 GLDR,CUGLTS10026
+CUGLTS10030,Marvin Windows and Doors,Clad Ultimate Glider,120,36,Yes,DP35,12036 GLDR,CUGLTS10030
+CUGLTS10036,Marvin Windows and Doors,Clad Ultimate Glider,120,42,Yes,DP35,12042 GLDR,CUGLTS10036
+CUGLTS10040,Marvin Windows and Doors,Clad Ultimate Glider,120,48,Yes,DP35,12048 GLDR,CUGLTS10040
+CUGLTS10046,Marvin Windows and Doors,Clad Ultimate Glider,120,54,Yes,DP35,12054 GLDR,CUGLTS10046
+CUGLTS10050,Marvin Windows and Doors,Clad Ultimate Glider,120,60,Yes,DP35,12060 GLDR,CUGLTS10050
+CUGLTS10056,Marvin Windows and Doors,Clad Ultimate Glider,120,66,Yes,DP35,12066 GLDR,CUGLTS10056
+CUGLTS10060,Marvin Windows and Doors,Clad Ultimate Glider,120,72,Yes,DP35,12072 GLDR,CUGLTS10060

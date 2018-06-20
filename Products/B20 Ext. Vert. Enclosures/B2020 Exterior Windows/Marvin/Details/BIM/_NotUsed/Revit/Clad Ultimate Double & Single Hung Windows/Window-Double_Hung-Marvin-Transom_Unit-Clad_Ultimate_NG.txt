@@ -1,0 +1,26 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+
+CUDHT-NG1612,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,22,20,DP50,1612 FIXED,CUDHT-NG1612
+CUDHT-NG2012,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,26,20,DP50,2012 FIXED,CUDHT-NG2012
+CUDHT-NG2412,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,30,20,DP50,2412 FIXED,CUDHT-NG2412
+CUDHT-NG2612,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,32,20,DP50,2612 FIXED,CUDHT-NG2612
+CUDHT-NG2812,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,34,20,DP50,2812 FIXED,CUDHT-NG2812
+CUDHT-NG3012,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,36,20,DP50,3012 FIXED,CUDHT-NG3012
+CUDHT-NG3212,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,38,20,DP50,3212 FIXED,CUDHT-NG3212
+CUDHT-NG3612,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,42,20,DP50,3612 FIXED,CUDHT-NG3612
+CUDHT-NG4012,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,46,20,DP50,4012 FIXED,CUDHT-NG4012
+CUDHT-NG5412,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,60,20,DP50,5412 FIXED,CUDHT-NG5412
+
+CUDHT-NG1620,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,22,28,DP50,1620 FIXED,CUDHT-NG1620
+CUDHT-NG2020,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,26,28,DP50,2020 FIXED,CUDHT-NG2020
+CUDHT-NG2420,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,30,28,DP50,2420 FIXED,CUDHT-NG2420
+CUDHT-NG2620,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,32,28,DP50,2620 FIXED,CUDHT-NG2620
+CUDHT-NG2820,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,34,28,DP50,2820 FIXED,CUDHT-NG2820
+CUDHT-NG3020,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,36,28,DP50,3020 FIXED,CUDHT-NG3020
+CUDHT-NG3220,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,38,28,DP50,3220 FIXED,CUDHT-NG3220
+CUDHT-NG3620,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,42,28,DP50,3620 FIXED,CUDHT-NG3620
+CUDHT-NG4020,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,46,28,DP50,4020 FIXED,CUDHT-NG4020
+CUDHT-NG5420,Marvin Windows and Doors,Clad Ultimate Double Hung Transom Unit-NG,60,28,DP50,5420 FIXED,CUDHT-NG5420
+
+
+

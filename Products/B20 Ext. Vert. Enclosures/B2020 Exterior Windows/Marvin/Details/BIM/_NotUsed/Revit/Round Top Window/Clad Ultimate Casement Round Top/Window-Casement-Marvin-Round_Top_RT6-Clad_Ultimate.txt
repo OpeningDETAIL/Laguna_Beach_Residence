@@ -1,0 +1,230 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,RO Radius##length##inches,Egress Window##other##,Design Pressure##other##,Description##other##,Model##other##
+
+ 
+CUCART1632,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,32,12 1/2,No,DP50,1632 CSMT RT6,CUCART1632
+
+CUCART1636,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,36,12 1/2,No,DP50,1636 CSMT RT6,CUCART1636
+
+CUCART1640,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,40,12 1/2,No,DP50,1640 CSMT RT6,CUCART1640 
+
+CUCART1644,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,44,12 1/2,No,DP50,1644 CSMT RT6,CUCART1644 
+
+CUCART1648,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,48,12 1/2,No,DP50,1648 CSMT RT6,CUCART1648
+
+CUCART1654,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,54,12 1/2,No,DP50,1654 CSMT RT6,CUCART1654 
+
+CUCART1656,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,56,12 1/2,No,DP50,1656 CSMT RT6,CUCART1656
+
+CUCART1660,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,60,12 1/2,No,DP50,1660 CSMT RT6,CUCART1660 
+
+CUCART1664,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,64,12 1/2,No,DP50,1664 CSMT RT6,CUCART1664 
+
+CUCART1672,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,72,12 1/2,No,DP50,1672 CSMT RT6,CUCART1672
+ 
+CUCART1678,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,78,12 1/2,No,DP50,1678 CSMT RT6,CUCART1678
+ 
+CUCART1684,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,84,12 1/2,No,DP50,1684 CSMT RT6,CUCART1684
+
+CUCART1692,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,92,12 1/2,No,DP50,1692 CSMT RT6,CUCART1692
+ 
+CUCART1696,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,16,96,12 1/2,No,DP50,1696 CSMT RT6,CUCART1696
+ 
+CUCART1832,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,32,12 1/2,No,DP50,1832 CSMT RT6,CUCART1832
+
+CUCART1836,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,36,18 1/2,No,DP50,1836 CSMT RT6,CUCART1836
+
+CUCART1840,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,40,18 1/2,No,DP50,1840 CSMT RT6,CUCART1840
+
+CUCART1844,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,44,18 1/2,No,DP50,1844 CSMT RT6,CUCART1844 
+
+CUCART1848,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,48,18 1/2,No,DP50,1848 CSMT RT6,CUCART1848 
+ 
+CUCART1854,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,54,18 1/2,No,DP50,1854 CSMT RT6,CUCART1854
+
+CUCART1856,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,56,18 1/2,No,DP50,1856 CSMT RT6,CUCART1856
+ 
+CUCART1860,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,60,18 1/2,No,DP50,1860 CSMT RT6,CUCART1860
+ 
+CUCART1864,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,64,18 1/2,No,DP50,1864 CSMT RT6,CUCART1864
+ 
+CUCART1872,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,72,18 1/2,No,DP50,1872 CSMT RT6,CUCART1872
+
+CUCART1878,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,78,18 1/2,No,DP50,1878 CSMT RT6,CUCART1878
+ 
+CUCART1884,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,84,18 1/2,No,DP50,1884 CSMT RT6,CUCART1884
+ 
+CUCART1892,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,92,18 1/2,No,DP50,1892 CSMT RT6,CUCART1892
+ 
+CUCART1896,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,18,96,18 1/2,No,DP50,1896 CSMT RT6,CUCART1896
+
+CUCART2032,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,32,18 1/2,No,DP50,2032 CSMT RT6,CUCART2032
+ 
+CUCART2036,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,36,18 1/2,No,DP50,2036 CSMT RT6,CUCART2036
+ 
+CUCART2040,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,40,18 1/2,No,DP50,2040 CSMT RT6,CUCART2040
+ 
+CUCART2044,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,44,18 1/2,No,DP50,2044 CSMT RT6,CUCART2044
+ 
+CUCART2048,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,48,18 1/2,No,DP50,2048 CSMT RT6,CUCART2048
+ 
+CUCART2054,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,54,18 1/2,No,DP50,2054 CSMT RT6,CUCART2054
+
+CUCART2056,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,56,18 1/2,No,DP50,2056 CSMT RT6,CUCART2056
+ 
+CUCART2060,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,60,18 1/2,No,DP50,2060 CSMT RT6,CUCART2060
+
+CUCART2064,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,64,18 1/2,No,DP50,2064 CSMT RT6,CUCART2064
+ 
+CUCART2072,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,72,18 1/2,No,DP50,2072 CSMT RT6,CUCART2072
+ 
+CUCART2078,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,78,18 1/2,No,DP50,2078 CSMT RT6,CUCART2078
+ 
+CUCART2084,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,84,18 1/2,No,DP50,2084 CSMT RT6,CUCART2084
+ 
+CUCART2092,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,92,18 1/2,No,DP50,2092 CSMT RT6,CUCART2092
+
+CUCART2096,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,20,96,18 1/2,No,DP50,2096 CSMT RT6,CUCART2096
+ 
+CUCART2436,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,36,24 1/2,No,DP50,2436 CSMT RT6,CUCART2436
+ 
+CUCART2440,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,40,24 1/2,No,DP50,2440 CSMT RT6,CUCART2440
+
+CUCART2444,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,44,24 1/2,No,DP50,2444 CSMT RT6,CUCART2444 
+
+CUCART2448,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,48,24 1/2,No,DP50,2448 CSMT RT6,CUCART2448
+
+CUCART2454,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,54,24 1/2,No,DP50,2454 CSMT RT6,CUCART2454
+ 
+CUCART2456,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,56,24 1/2,No,DP50,2456 CSMT RT6,CUCART2456
+ 
+CUCART2460,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,60,24 1/2,No,DP50,2460 CSMT RT6,CUCART2460
+ 
+CUCART2464,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,64,24 1/2,No,DP50,2464 CSMT RT6,CUCART2464
+ 
+CUCART2472,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,72,24 1/2,No,DP50,2472 CSMT RT6,CUCART2472
+ 
+CUCART2478,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,78,24 1/2,No,DP50,2478 CSMT RT6,CUCART2478
+ 
+CUCART2492,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,92,24 1/2,No,DP50,2492 CSMT RT6,CUCART2492
+ 
+CUCART2496,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,24,96,24 1/2,No,DP50,2496 CSMT RT6,CUCART2496
+ 
+CUCART2640,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,40,24 1/2,No,DP50,2640 CSMT RT6,CUCART2640
+ 
+CUCART2644,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,44,24 1/2,No,DP50,2644 CSMT RT6,CUCART2644
+
+CUCART2648,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,48,24 1/2,No,DP50,2648 CSMT RT6,CUCART2648
+ 
+CUCART2654,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,54,24 1/2,No,DP50,2654 CSMT RT6,CUCART2654
+ 
+CUCART2656,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,56,24 1/2,No,DP50,2656 CSMT RT6,CUCART2656
+ 
+CUCART2660,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,60,24 1/2,No,DP50,2660 CSMT RT6,CUCART2660
+
+CUCART2664,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,64,24 1/2,No,DP50,2664 CSMT RT6,CUCART2664
+ 
+CUCART2672,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,72,24 1/2,No,DP50,2672 CSMT RT6,CUCART2672
+
+CUCART2678,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,78,24 1/2,No,DP50,2678 CSMT RT6,CUCART2678 
+ 
+CUCART2684,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,84,24 1/2,No,DP50,2684 CSMT RT6,CUCART2684
+ 
+CUCART2692,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,92,24 1/2,No,DP50,2692 CSMT RT6,CUCART2692
+ 
+CUCART2696,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,26,96,24 1/2,No,DP50,2696 CSMT RT6,CUCART2696
+
+CUCART2840,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,40,24 1/2,No,DP50,2840 CSMT RT6,CUCART2840
+ 
+CUCART2844,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,44,24 1/2,No,DP50,2844 CSMT RT6,CUCART2844
+ 
+CUCART2848,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,48,24 1/2,No,DP50,2848 CSMT RT6,CUCART2848
+ 
+CUCART2854,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,54,24 1/2,No,DP50,2854 CSMT RT6,CUCART2854
+ 
+CUCART2856,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,56,24 1/2,No,DP50,2856 CSMT RT6,CUCART2856
+ 
+CUCART2860,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,60,24 1/2,No,DP50,2860 CSMT RT6,CUCART2860
+
+CUCART2864,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,64,24 1/2,No,DP50,2864 CSMT RT6,CUCART2864
+ 
+CUCART2872,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,72,24 1/2,No,DP50,2872 CSMT RT6,CUCART2872
+
+CUCART2878,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,78,24 1/2,No,DP50,2878 CSMT RT6,CUCART2878
+ 
+CUCART2884,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,84,24 1/2,No,DP50,2884 CSMT RT6,CUCART2884
+ 
+CUCART2892,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,92,24 1/2,No,DP50,2892 CSMT RT6,CUCART2892
+ 
+CUCART2896,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,28,96,24 1/2,No,DP50,2896 CSMT RT6,CUCART2896
+ 
+CUCART3044,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,44,30 1/2,No,DP50,3044 CSMT RT6,CUCART3044
+
+CUCART3048,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,48,30 1/2,No,DP50,3048 CSMT RT6,CUCART3048
+ 
+CUCART3054,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,54,30 1/2,No,DP50,3054 CSMT RT6,CUCART3054
+
+CUCART3056,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,56,30 1/2,No,DP50,3056 CSMT RT6,CUCART3056
+
+CUCART3060,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,60,30 1/2,No,DP50,3060 CSMT RT6,CUCART3060 
+ 
+CUCART3064,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,64,30 1/2,No,DP50,3064 CSMT RT6,CUCART3064
+ 
+CUCART3072,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,72,30 1/2,No,DP50,3072 CSMT RT6,CUCART3072
+
+CUCART3078,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,78,30 1/2,No,DP50,3078 CSMT RT6,CUCART3078
+ 
+CUCART3084,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,84,30 1/2,No,DP50,3084 CSMT RT6,CUCART3084
+ 
+CUCART3092,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,92,30 1/2,No,DP50,3092 CSMT RT6,CUCART3092
+
+CUCART3096,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,30,96,30 1/2,No,DP50,3096 CSMT RT6,CUCART3096
+ 
+CUCART3248,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,48,30 1/2,No,DP50,3248 CSMT RT6,CUCART3248
+ 
+CUCART3254,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,54,30 1/2,No,DP50,3254 CSMT RT6,CUCART3254
+
+CUCART3256,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,56,30 1/2,No,DP50,3256 CSMT RT6,CUCART3256
+ 
+CUCART3260,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,60,30 1/2,No,DP50,3260 CSMT RT6,CUCART3260
+ 
+CUCART3264,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,64,30 1/2,No,DP50,3264 CSMT RT6,CUCART3264
+ 
+CUCART3272,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,72,30 1/2,No,DP50,3272 CSMT RT6,CUCART3272
+ 
+CUCART3278,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,78,30 1/2,No,DP50,3278 CSMT RT6,CUCART3278
+ 
+CUCART3284,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,84,30 1/2,No,DP50,3284 CSMT RT6,CUCART3284
+ 
+CUCART3292,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,92,30 1/2,No,DP50,3292 CSMT RT6,CUCART3292
+ 
+CUCART3296,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,32,96,30 1/2,No,DP50,3296 CSMT RT6,CUCART3296
+ 
+CUCART3654,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,54,30 1/2,No,DP50,3654 CSMT RT6,CUCART3654
+ 
+CUCART3656,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,56,30 1/2,No,DP50,3656 CSMT RT6,CUCART3656
+ 
+CUCART3660,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,60,30 1/2,No,DP50,3660 CSMT RT6,CUCART3660
+
+CUCART3664,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,64,30 1/2,No,DP50,3664 CSMT RT6,CUCART3664
+ 
+CUCART3672,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,72,30 1/2,No,DP50,3672 CSMT RT6,CUCART3672
+ 
+CUCART3678,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,78,30 1/2,No,DP50,3678 CSMT RT6,CUCART3678
+
+CUCART3684,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,84,30 1/2,No,DP50,3684 CSMT RT6,CUCART3684
+ 
+CUCART3692,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,92,30 1/2,No,DP50,3692 CSMT RT6,CUCART3692
+
+CUCART3696,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,36,96,30 1/2,No,DP50,3696 CSMT RT6,CUCART3696
+
+CUCART4060,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,40,60,40 1/2,No,DP50,4060 CSMT RT6,CUCART4060
+
+CUCART4064,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,40,64,40 1/2,No,DP50,4064 CSMT RT6,CUCART4064
+ 
+CUCART4072,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,40,72,40 1/2,No,DP50,4072 CSMT RT6,CUCART4072
+ 
+CUCART4078,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,40,78,40 1/2,No,DP50,4078 CSMT RT6,CUCART4078
+ 
+CUCART4084,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,40,84,40 1/2,No,DP50,4084 CSMT RT6,CUCART4084
+
+CUCART4092,Marvin Windows and Doors,Clad Ultimate Casement Round Top RT6,40,92,40 1/2,No,DP50,4092 CSMT RT6,CUCART4092

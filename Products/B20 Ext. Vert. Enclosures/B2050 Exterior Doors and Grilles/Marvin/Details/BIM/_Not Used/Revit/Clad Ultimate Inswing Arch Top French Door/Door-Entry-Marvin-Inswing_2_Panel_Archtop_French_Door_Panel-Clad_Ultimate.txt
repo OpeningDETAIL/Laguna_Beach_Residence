@@ -1,0 +1,9 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,FS Springline##length##inches,Design Pressure##other##,Description##other##,Model##other##
+
+CUIAF5068,Marvin Windows and Doors,Clad Ultimate Inswing Archtop French Door,60,80,75.3125,DP40,6080 AT FR DOOR,CUIAF5068
+CUIAF5070,Marvin Windows and Doors,Clad Ultimate Inswing Archtop French Door,60,84,79.3125,DP40,6084 AT FR DOOR,CUIAF5070
+CUIAF5080,Marvin Windows and Doors,Clad Ultimate Inswing Archtop French Door,60,96,88.8125,DP40,6096 AT FR DOOR,CUIAF5080
+
+CUIAF6068,Marvin Windows and Doors,Clad Ultimate Inswing Archtop French Door,72,80,72.1875,DP40,7280 AT FR DOOR,CUIAF6068
+CUIAF6070,Marvin Windows and Doors,Clad Ultimate Inswing Archtop French Door,72,84,76.1875,DP40,7284 AT FR DOOR,CUIAF6070
+CUIAF6080,Marvin Windows and Doors,Clad Ultimate Inswing Archtop French Door,72,96,85.9375,DP40,7296 AT FR DOOR,CUIAF6080

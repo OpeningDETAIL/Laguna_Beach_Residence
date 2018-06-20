@@ -1,0 +1,7 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height Door##length##inches,Description##other##,Model##other##
+CCD6070,Marvin Windows and Doors,Clad Commercial Door 1.75-DG Transom,72,84,7284 GL DOOR,CCD6070
+CCD6080,Marvin Windows and Doors,Clad Commercial Door 1.75-DG Transom,72,96,7296 GL DOOR,CCD6080
+CCD6090,Marvin Windows and Doors,Clad Commercial Door 1.75-DG Transom,72,108,72108 GL DOOR,CCD6090
+CCD7070,Marvin Windows and Doors,Clad Commercial Door 1.75-DG Transom,84,84,8484 GL DOOR,CCD7070
+CCD7080,Marvin Windows and Doors,Clad Commercial Door 1.75-DG Transom,84,96,8496 GL DOOR,CCD7080
+CCD7090,Marvin Windows and Doors,Clad Commercial Door 1.75-DG Transom,84,108,84108 GL DOOR,CCD7090

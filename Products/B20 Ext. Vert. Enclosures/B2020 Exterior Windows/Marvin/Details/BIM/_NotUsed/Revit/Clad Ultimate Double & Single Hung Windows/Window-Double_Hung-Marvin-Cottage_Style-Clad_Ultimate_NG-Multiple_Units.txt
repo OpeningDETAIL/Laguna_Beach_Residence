@@ -1,0 +1,25 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width Center Unit##length##inches,Nominal Height##length##inches,Egress Window##other##,Design Pressure##other##,Description##other##,Model##other##,Option Choice##other##,Lites High Top Sash##other##,Lites High Bottom Sash##other##
+CUDH-NG1624/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,22,68,No,DP50,2268 DBHG CTTG,CUDH-NG1624/36,1,2,3
+CUDH-NG2024/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,26,68,No,DP50,2668 DBHG CTTG,CUDH-NG2024/36,1,2,3
+CUDH-NG2424/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,30,68,No,DP50,3068 DBHG CTTG,CUDH-NG2424/36,1,2,3
+CUDH-NG2624/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,32,68,No,DP50,3268 DBHG CTTG,CUDH-NG2624/36,1,2,3
+CUDH-NG2824/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,34,68,No,DP50,3468 DBHG CTTG,CUDH-NG2824/36,1,2,3
+CUDH-NG3024/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,36,68,No,DP50,3668 DBHG CTTG,CUDH-NG3024/36,1,2,3
+CUDH-NG3224/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,38,68,No,DP50,3868 DBHG CTTG,CUDH-NG3224/36,1,2,3
+CUDH-NG3624/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,42,68,No,DP50,4268 DBHG CTTG,CUDH-NG3624/36,1,2,3
+CUDH-NG4024/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,46,68,No,DP50,4668 DBHG CTTG,CUDH-NG4024/36,1,2,3
+CUDH-NG4424/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,50,68,No,DP50,5068 DBHG CTTG,CUDH-NG4424/36,1,2,3
+CUDH-NG4824/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,54,68,No,DP50,5468 DBHG CTTG,CUDH-NG4824/36,1,2,3
+CUDH-NG5424/36,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,60,68,No,DP50,6068 DBHG CTTG,CUDH-NG5424/36,1,2,3
+CUDH-NG1636/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,22,68,No,DP50,2268 DBHG CTTG,CUDH-NG1636/24,2,3,2
+CUDH-NG2036/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,26,68,No,DP50,2668 DBHG CTTG,CUDH-NG2036/24,2,3,2
+CUDH-NG2436/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,30,68,No,DP50,3068 DBHG CTTG,CUDH-NG2436/24,2,3,2
+CUDH-NG2636/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,32,68,No,DP50,3268 DBHG CTTG,CUDH-NG2636/24,2,3,2
+CUDH-NG2836/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,34,68,No,DP50,3468 DBHG CTTG,CUDH-NG2836/24,2,3,2
+CUDH-NG3036/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,36,68,No,DP50,3668 DBHG CTTG,CUDH-NG3036/24,2,3,2
+CUDH-NG3236/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,38,68,No,DP50,3868 DBHG CTTG,CUDH-NG3236/24,2,3,2
+CUDH-NG3636/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,42,68,No,DP50,4268 DBHG CTTG,CUDH-NG3636/24,2,3,2
+CUDH-NG4036/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,46,68,No,DP50,4668 DBHG CTTG,CUDH-NG4036/24,2,3,2
+CUDH-NG4436/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,50,68,No,DP50,5068 DBHG CTTG,CUDH-NG4436/24,2,3,2
+CUDH-NG4836/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,54,68,No,DP50,5468 DBHG CTTG,CUDH-NG4836/24,2,3,2
+CUDH-NG5436/24,Marvin Windows and Doors,Clad Ultimate Double Hung-NG Cottage Style,60,68,No,DP50,6068 DBHG CTTG,CUDH-NG5436/24,2,3,2

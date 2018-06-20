@@ -1,0 +1,9 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Nominal Panel Width##length##inches,Description##other##,Model##other##
+CMMSDS12070_XOX,Marvin Windows and Doors,Clad Ultimate Multi-Slide Stacked Door,144,84,36,12070 MS DOOR,CMMSDS12070_XOX
+CMMSDS12080_XOX,Marvin Windows and Doors,Clad Ultimate Multi-Slide Stacked Door,144,96,36,12080 MS DOOR,CMMSDS12080_XOX
+CMMSDS12090_XOX,Marvin Windows and Doors,Clad Ultimate Multi-Slide Stacked Door,144,108,36,12090 MS DOOR,CMMSDS12090_XOX
+CMMSDS120100_XOX,Marvin Windows and Doors,Clad Ultimate Multi-Slide Stacked Door,144,120,36,120100 MS DOOR,CMMSDS120100_XOX
+CMMSDS120120_XOX,Marvin Windows and Doors,Clad Ultimate Multi-Slide Stacked Door,144,144,36,120120 MS DOOR,CMMSDS120120_XOX
+CMMSDS16070_XOX,Marvin Windows and Doors,Clad Ultimate Multi-Slide Stacked Door,192,84,48,16070 MS DOOR,CMMSDS16070_XOX
+CMMSDS15080_XOX,Marvin Windows and Doors,Clad Ultimate Multi-Slide Stacked Door,180,96,48,15080 MS DOOR,CMMSDS15080_XOX
+

@@ -1,0 +1,16 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUOFDT4016,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,48,18,DP40,4818 FR DR TR,CUOFDT4016
+CUOFDT4020,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,48,24,DP40,4824 FR DR TR,CUOFDT4020
+CUOFDT4026,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,48,30,DP40,4830 FR DR TR,CUOFDT4026
+CUOFDT5016,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,60,18,DP40,6018 FR DR TR,CUOFDT5016
+CUOFDT5020,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,60,24,DP40,6024 FR DR TR,CUOFDT5020
+CUOFDT5026,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,60,30,DP40,6030 FR DR TR,CUOFDT5026
+CUOFDT5416,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,64,18,DP40,6418 FR DR TR,CUOFDT5416
+CUOFDT5420,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,64,24,DP40,6424 FR DR TR,CUOFDT5420
+CUOFDT5426,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,64,30,DP40,6430 FR DR TR,CUOFDT5426
+CUOFDT6016,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,72,18,DP40,7218 FR DR TR,CUOFDT6016
+CUOFDT6020,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,72,24,DP40,7224 FR DR TR,CUOFDT6020
+CUOFDT6026,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,72,30,DP40,7230 FR DR TR,CUOFDT6026
+CUOFDT7016,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,84,18,DP40,8418 FR DR TR,CUOFDT7016
+CUOFDT7020,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,84,24,DP40,8424 FR DR TR,CUOFDT7020
+CUOFDT7026,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Transom,84,30,DP40,8430 FR DR TR,CUOFDT7026

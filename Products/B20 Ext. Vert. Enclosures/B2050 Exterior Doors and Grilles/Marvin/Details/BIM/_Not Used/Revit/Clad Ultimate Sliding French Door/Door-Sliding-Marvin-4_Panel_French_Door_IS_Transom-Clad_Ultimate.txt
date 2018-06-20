@@ -1,0 +1,10 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height Door##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUSFD10068,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,120,80,DP40,12080 SL FR DOOR,CUSFD10068
+CUSFD12068,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,144,80,DP40,14480 SL FR DOOR,CUSFD12068
+CUSFD16068,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,192,80,DP40,19280 SL FR DOOR,CUSFD16068
+CUSFD10070,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,120,84,DP40,12084 SL FR DOOR,CUSFD10070
+CUSFD12070,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,144,84,DP40,14484 SL FR DOOR,CUSFD12070
+CUSFD16070,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,192,84,DP40,19284 SL FR DOOR,CUSFD16070
+CUSFD10080,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,120,96,DP40,12096 SL FR DOOR,CUSFD10080
+CUSFD12080,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,144,96,DP40,14496 SL FR DOOR,CUSFD12080
+CUSFD16080,Marvin Windows and Doors,Clad Ultimate Sliding French Door-IS Transom,192,96,DP40,19296 SL FR DOOR,CUSFD16080

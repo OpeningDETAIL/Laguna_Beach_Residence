@@ -1,0 +1,23 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUOFD4068,Marvin Windows and Doors,Clad Ultimate Outswing French Door,48,80,DP40,4880 FR DOOR,CUOFD4068
+CUOFD4070,Marvin Windows and Doors,Clad Ultimate Outswing French Door,48,84,DP40,4884 FR DOOR,CUOFD4070
+CUOFD4080,Marvin Windows and Doors,Clad Ultimate Outswing French Door,48,96,DP40,4896 FR DOOR,CUOFD4080
+CUOFD4090,Marvin Windows and Doors,Clad Ultimate Outswing French Door,48,108,DP40,48108 FR DOOR,CUOFD4090
+CUOFD5066,Marvin Windows and Doors,Clad Ultimate Outswing French Door,60,78,DP40,6078 FR DOOR,CUOFD5066
+CUOFD5068,Marvin Windows and Doors,Clad Ultimate Outswing French Door,60,80,DP40,6080 FR DOOR,CUOFD5068
+CUOFD5070,Marvin Windows and Doors,Clad Ultimate Outswing French Door,60,84,DP40,6084 FR DOOR,CUOFD5070
+CUOFD5080,Marvin Windows and Doors,Clad Ultimate Outswing French Door,60,96,DP40,6096 FR DOOR,CUOFD5080
+CUOFD5090,Marvin Windows and Doors,Clad Ultimate Outswing French Door,60,108,DP40,60108 FR DOOR,CUOFD5090
+CUOFD5468,Marvin Windows and Doors,Clad Ultimate Outswing French Door,64,80,DP40,6480 FR DOOR,CUOFD5468
+CUOFD5470,Marvin Windows and Doors,Clad Ultimate Outswing French Door,64,84,DP40,6484 FR DOOR,CUOFD5470
+CUOFD5480,Marvin Windows and Doors,Clad Ultimate Outswing French Door,64,96,DP40,6496 FR DOOR,CUOFD5480
+CUOFD5490,Marvin Windows and Doors,Clad Ultimate Outswing French Door,64,108,DP40,64108 FR DOOR,CUOFD5490
+CUOFD6066,Marvin Windows and Doors,Clad Ultimate Outswing French Door,72,78,DP40,7278 FR DOOR,CUOFD6066
+CUOFD6068,Marvin Windows and Doors,Clad Ultimate Outswing French Door,72,80,DP40,7280 FR DOOR,CUOFD6068
+CUOFD6070,Marvin Windows and Doors,Clad Ultimate Outswing French Door,72,84,DP40,7284 FR DOOR,CUOFD6070
+CUOFD6080,Marvin Windows and Doors,Clad Ultimate Outswing French Door,72,96,DP40,7296 FR DOOR,CUOFD6080
+CUOFD6090,Marvin Windows and Doors,Clad Ultimate Outswing French Door,72,108,DP40,72108 FR DOOR,CUOFD6090
+CUOFD7068,Marvin Windows and Doors,Clad Ultimate Outswing French Door,84,80,DP30,8480 FR DOOR,CUOFD7068
+CUOFD7070,Marvin Windows and Doors,Clad Ultimate Outswing French Door,84,84,DP30,8484 FR DOOR,CUOFD7070
+CUOFD7080,Marvin Windows and Doors,Clad Ultimate Outswing French Door,84,96,DP30,8496 FR DOOR,CUOFD7080
+CUOFD7090,Marvin Windows and Doors,Clad Ultimate Outswing French Door,84,108,DP30,84108 FR DOOR,CUOFD7090

@@ -1,0 +1,16 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height Door##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUIFD8068,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,96,80,DP40,9680 FR DOOR,CUIFD8068
+CUIFD8070,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,96,84,DP40,9684 FR DOOR,CUIFD8070
+CUIFD8080,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,96,96,DP40,9696 FR DOOR,CUIFD8080
+CUIFD10068,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,120,80,DP40,12080 FR DOOR,CUIFD10068
+CUIFD10070,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,120,84,DP40,12084 FR DOOR,CUIFD10070
+CUIFD10080,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,120,96,DP40,12096 FR DOOR,CUIFD10080
+CUIFD10868,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,128,80,DP40,12880 FR DOOR,CUIFD10868
+CUIFD10870,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,128,84,DP40,12884 FR DOOR,CUIFD10870
+CUIFD10880,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,128,96,DP40,12896 FR DOOR,CUIFD10880
+CUIFD12068,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,144,80,DP40,14480 FR DOOR,CUIFD12068
+CUIFD12070,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,144,84,DP40,14484 FR DOOR,CUIFD12070
+CUIFD12080,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,144,96,DP40,14496 FR DOOR,CUIFD12080
+CUIFD14068,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,168,80,DP30,16880 FR DOOR,CUIFD14068
+CUIFD14070,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,168,84,DP30,16884 FR DOOR,CUIFD14070
+CUIFD14080,Marvin Windows and Doors,Clad Ultimate Inswing French Door-DG Transom,168,96,DP30,16896 FR DOOR,CUIFD14080

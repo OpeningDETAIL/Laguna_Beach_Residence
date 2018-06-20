@@ -1,0 +1,70 @@
+,Manufacturer##other##,Door Type##other##,Number of Panels##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+
+CULSP3070_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,36,84,DP30,3070 LSP DOOR,CULSP3070_PX/XP
+CULSP4070_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,48,84,DP30,4070 LSP DOOR,CULSP4070_PX/XP
+CULSP5070_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,60,84,DP30,5070 LSP DOOR,CULSP5070_PX/XP
+CULSP6070_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,72,84,DP30,6070 LSP DOOR,CULSP6070_PX/XP
+
+CULSP3080_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,36,96,DP30,3080 LSP DOOR,CULSP3080_PX/XP
+CULSP4080_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,48,96,DP30,4080 LSP DOOR,CULSP4080_PX/XP
+CULSP5080_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,60,96,DP30,5080 LSP DOOR,CULSP5080_PX/XP
+CULSP6080_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,72,96,DP30,6080 LSP DOOR,CULSP6080_PX/XP
+
+CULSP30100_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,36,120,DP30,30100 LSP DOOR,CULSP30100_PX/XP
+CULSP40100_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,48,120,DP30,40100 LSP DOOR,CULSP40100_PX/XP
+CULSP50100_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,60,120,DP30,50100 LSP DOOR,CULSP50100_PX/XP
+CULSP60100_PX/XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,1,72,120,DP30,60100 LSP DOOR,CULSP60100_PX/XP
+
+
+CULSP6070_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,72,84,DP30,6070 LSP DOOR,CULSP6070_PXX/XXP
+CULSP8070_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,96,84,DP30,8070 LSP DOOR,CULSP8070_PXX/XXP
+CULSP10070_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,120,84,DP30,10070 LSP DOOR,CULSP10070_PXX/XXP
+CULSP12070_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,144,84,DP30,12070 LSP DOOR,CULSP12070_PXX/XXP
+
+CULSP6080_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,72,96,DP30,6080 LSP DOOR,CULSP6080_PXX/XXP
+CULSP8080_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,96,96,DP30,8080 LSP DOOR,CULSP8080_PXX/XXP
+CULSP10080_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,120,96,DP30,10080 LSP DOOR,CULSP10080_PXX/XXP
+CULSP12080_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,144,96,DP30,12080 LSP DOOR,CULSP12080_PXX/XXP
+
+CULSP60100_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,72,120,DP30,60100 LSP DOOR,CULSP60100_PXX/XXP
+CULSP80100_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,96,120,DP30,80100 LSP DOOR,CULSP80100_PXX/XXP
+CULSP100100_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,120,120,DP30,100100 LSP DOOR,CULSP100100_PXX/XXP
+CULSP120100_PXX/XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,144,120,DP30,120100 LSP DOOR,CULSP120100_PXX/XXP
+
+
+CULSP9070_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,108,84,DP30,9070 LSP DOOR,CULSP9070_PXXX/XXXP
+CULSP12070_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,144,84,DP30,12070 LSP DOOR,CULSP12070_PXXX/XXXP
+CULSP15070_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,180,84,DP30,15070 LSP DOOR,CULSP15070_PXXX/XXXP
+CULSP18070_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,216,84,DP30,18070 LSP DOOR,CULSP18070_PXXX/XXXP
+
+
+CULSP9080_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,108,96,DP30,9080 LSP DOOR,CULSP9080_PXXX/XXXP
+CULSP12080_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,144,96,DP30,12080 LSP DOOR,CULSP12080_PXXX/XXXP
+CULSP15080_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,180,96,DP30,15080 LSP DOOR,CULSP15080_PXXX/XXXP
+CULSP18080_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,216,96,DP30,18080 LSP DOOR,CULSP18080_PXXX/XXXP
+
+CULSP90100_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,108,120,DP30,90100 LSP DOOR,CULSP90100_PXXX/XXXP
+CULSP120100_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,144,120,DP30,120100 LSP DOOR,CULSP120100_PXXX/XXXP
+CULSP150100_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,180,120,DP30,150100 LSP DOOR,CULSP150100_PXXX/XXXP
+CULSP180100_PXXX/XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,3,216,120,DP30,180100 LSP DOOR,CULSP180100_PXXX/XXXP
+
+
+CULSP12070_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,144,84,DP30,12070 LSP DOOR,CULSP12070_PXXXX/XXXXP
+CULSP16070_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,192,84,DP30,16070 LSP DOOR,CULSP16070_PXXXX/XXXXP
+CULSP20070_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,240,84,DP30,20070 LSP DOOR,CULSP20070_PXXXX/XXXXP
+CULSP24070_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,288,84,DP30,24070 LSP DOOR,CULSP24070_PXXXX/XXXXP
+
+
+CULSP12080_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,144,96,DP30,12080 LSP DOOR,CULSP12080_PXXXX/XXXXP
+CULSP16080_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,192,96,DP30,16080 LSP DOOR,CULSP16080_PXXXX/XXXXP
+CULSP20080_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,240,96,DP30,20080 LSP DOOR,CULSP20080_PXXXX/XXXXP
+CULSP24080_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,288,96,DP30,24080 LSP DOOR,CULSP24080_PXXXX/XXXXP
+
+
+
+CULSP120100_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,144,120,DP30,120100 LSP DOOR,CULSP120100_PXXXX/XXXXP
+CULSP160100_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,192,120,DP30,160100 LSP DOOR,CULSP160100_PXXXX/XXXXP
+CULSP200100_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,240,120,DP30,200100 LSP DOOR,CULSP200100_PXXXX/XXXXP
+CULSP240100_PXXXX/XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,288,120,DP30,240100 LSP DOOR,CULSP240100_PXXXX/XXXXP
+
+

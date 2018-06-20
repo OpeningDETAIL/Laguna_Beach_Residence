@@ -1,0 +1,57 @@
+,Manufacturer##other##,Door Type##other##,Number of Panels##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+
+CULSS12070_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,144,84,Not Rated,12070 LSS DOOR,CULSS12070_OX-XO
+CULSS16070_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,192,84,Not Rated,16070 LSS DOOR,CULSS16070_OX-XO
+CULSS20070_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,240,84,Not Rated,20070 LSS DOOR,CULSS20070_OX-XO
+CULSS24070_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,288,84,Not Rated,24070 LSS DOOR,CULSS24070_OX-XO
+
+CULSS12080_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,144,96,Not Rated,12080 LSS DOOR,CULSS12080_OX-XO
+CULSS16080_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,192,96,Not Rated,16080 LSS DOOR,CULSS16080_OX-XO
+CULSS20080_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,240,96,Not Rated,20080 LSS DOOR,CULSS20080_OX-XO
+CULSS24080_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,288,96,Not Rated,24080 LSS DOOR,CULSS24080_OX-XO
+
+CULSS120100_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,144,120,Not Rated,120100 LSS DOOR,CULSS120100_OX-XO
+CULSS160100_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,192,120,Not Rated,160100 LSS DOOR,CULSS160100_OX-XO
+CULSS200100_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,240,120,Not Rated,200100 LSS DOOR,CULSS200100_OX-XO
+CULSS240100_OX-XO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,4,288,120,Not Rated,240100 LSS DOOR,CULSS240100_OX-XO
+
+
+CULSS18070_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,216,84,Not Rated,18070 LSS DOOR,CULSS18070_OXX-XXO
+CULSS24070_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,288,84,Not Rated,24070 LSS DOOR,CULSS24070_OXX-XXO
+CULSS30070_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,360,84,Not Rated,30070 LSS DOOR,CULSS30070_OXX-XXO
+CULSS36070_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,432,84,Not Rated,36070 LSS DOOR,CULSS36070_OXX-XXO
+
+CULSS18080_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,216,96,Not Rated,18080 LSS DOOR,CULSS18080_OXX-XXO
+CULSS24080_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,288,96,Not Rated,24080 LSS DOOR,CULSS24080_OXX-XXO
+CULSS30080_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,360,96,Not Rated,30080 LSS DOOR,CULSS30080_OXX-XXO
+CULSS36080_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,432,96,Not Rated,36080 LSS DOOR,CULSS36080_OXX-XXO
+
+CULSS180100_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,216,120,Not Rated,180100 LSS DOOR,CULSS180100_OXX-XXO
+CULSS240100_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,288,120,Not Rated,240100 LSS DOOR,CULSS240100_OXX-XXO
+CULSS300100_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,360,120,Not Rated,300100 LSS DOOR,CULSS300100_OXX-XXO
+CULSS360100_OXX-XXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,6,432,120,Not Rated,360100 LSS DOOR,CULSS360100_OXX-XXO
+
+
+CULSS24070_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,288,84,Not Rated,24070 LSS DOOR,CULSS24070_OXXX-XXXO
+CULSS32070_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,384,84,Not Rated,32070 LSS DOOR,CULSS32070_OXXX-XXXO
+CULSS40070_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,480,84,Not Rated,40070 LSS DOOR,CULSS40070_OXXX-XXXO
+CULSS48070_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,576,84,Not Rated,48070 LSS DOOR,CULSS48070_OXXX-XXXO
+
+CULSS24080_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,288,96,Not Rated,24080 LSS DOOR,CULSS24080_OXXX-XXXO
+CULSS32080_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,384,96,Not Rated,32080 LSS DOOR,CULSS32080_OXXX-XXXO
+CULSS40080_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,480,96,Not Rated,40080 LSS DOOR,CULSS40080_OXXX-XXXO
+CULSS48080_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,576,96,Not Rated,48080 LSS DOOR,CULSS48080_OXXX-XXXO
+
+CULSS240100_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,288,120,Not Rated,240100 LSS DOOR,CULSS240100_OXXX-XXXO
+CULSS320100_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,384,120,Not Rated,320100 LSS DOOR,CULSS320100_OXXX-XXXO
+CULSS400100_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,480,120,Not Rated,400100 LSS DOOR,CULSS400100_OXXX-XXXO
+CULSS480100_OXXX-XXXO,Marvin Windows and Doors,Clad Ultimate Lift and Slide Stacked Door,8,576,120,Not Rated,480100 LSS DOOR,CULSS480100_OXXX-XXXO
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Egress Window##other##,Design Pressure##other##,Description##other##,Model##other##
+
+
+CUPFCA3632,Marvin Windows and Doors,Clad Ultimate French Casement,36,32,No,DP40,3632 FR CSMT,CUPFCA3632
+CUFCA4032,Marvin Windows and Doors,Clad Ultimate French Casement,40,32,No,DP40,4032 FR CSMT,CUFCA4032
+CUFCA4832,Marvin Windows and Doors,Clad Ultimate French Casement,48,32,Yes,DP40,4832 FR CSMT,CUFCA4832
+CUFCA5632,Marvin Windows and Doors,Clad Ultimate French Casement,56,32,Yes,DP40,5632 FR CSMT,CUFCA5632
+CUFCA6032,Marvin Windows and Doors,Clad Ultimate French Casement,60,32,Yes,DP30,6032 FR CSMT,CUFCA6032
+
+CUPFCA3636,Marvin Windows and Doors,Clad Ultimate French Casement,36,36,No,DP40,3636 FR CSMT,CUPFCA3636
+CUFCA4036,Marvin Windows and Doors,Clad Ultimate French Casement,40,36,No,DP40,4036 FR CSMT,CUFCA4036
+CUFCA4836,Marvin Windows and Doors,Clad Ultimate French Casement,48,36,Yes,DP40,4836 FR CSMT,CUFCA4836
+CUFCA5636,Marvin Windows and Doors,Clad Ultimate French Casement,56,36,Yes,DP40,5636 FR CSMT,CUFCA5636
+CUFCA6036,Marvin Windows and Doors,Clad Ultimate French Casement,60,36,Yes,DP30,6036 FR CSMT,CUFCA6036
+
+CUPFCA3640,Marvin Windows and Doors,Clad Ultimate French Casement,36,40,No,DP40,3640 FR CSMT,CUPFCA3640
+CUFCA4040,Marvin Windows and Doors,Clad Ultimate French Casement,40,40,Yes,DP40,4040 FR CSMT,CUFCA4040
+CUFCA4840,Marvin Windows and Doors,Clad Ultimate French Casement,48,40,Yes,DP40,4840 FR CSMT,CUFCA4840
+CUFCA5640,Marvin Windows and Doors,Clad Ultimate French Casement,56,40,Yes,DP40,5640 FR CSMT,CUFCA5640
+CUFCA6040,Marvin Windows and Doors,Clad Ultimate French Casement,60,40,Yes,DP30,6040 FR CSMT,CUFCA6040
+
+CUPFCA3644,Marvin Windows and Doors,Clad Ultimate French Casement,36,44,No,DP40,3644 FR CSMT,CUPFCA3644
+CUFCA4044,Marvin Windows and Doors,Clad Ultimate French Casement,40,44,Yes,DP40,4044 FR CSMT,CUFCA4044
+CUFCA4844,Marvin Windows and Doors,Clad Ultimate French Casement,48,44,Yes,DP40,4844 FR CSMT,CUFCA4844
+CUFCA5644,Marvin Windows and Doors,Clad Ultimate French Casement,56,44,Yes,DP40,5644 FR CSMT,CUFCA5644
+CUFCA6044,Marvin Windows and Doors,Clad Ultimate French Casement,60,44,Yes,DP30,6044 FR CSMT,CUFCA6044
+
+CUPFCA3648,Marvin Windows and Doors,Clad Ultimate French Casement,36,48,Yes,DP40,3648 FR CSMT,CUPFCA3648
+CUFCA4048,Marvin Windows and Doors,Clad Ultimate French Casement,40,48,Yes,DP40,4048 FR CSMT,CUFCA4048
+CUFCA4848,Marvin Windows and Doors,Clad Ultimate French Casement,48,48,Yes,DP40,4848 FR CSMT,CUFCA4848
+CUFCA5648,Marvin Windows and Doors,Clad Ultimate French Casement,56,48,Yes,DP40,5648 FR CSMT,CUFCA5648
+CUFCA6048,Marvin Windows and Doors,Clad Ultimate French Casement,60,48,Yes,DP30,6048 FR CSMT,CUFCA6048
+
+CUPFCA3654,Marvin Windows and Doors,Clad Ultimate French Casement,36,54,Yes,DP40,3654 FR CSMT,CUPFCA3654
+CUFCA4054,Marvin Windows and Doors,Clad Ultimate French Casement,40,54,Yes,DP40,4054 FR CSMT,CUFCA4054
+CUFCA4854,Marvin Windows and Doors,Clad Ultimate French Casement,48,54,Yes,DP40,4854 FR CSMT,CUFCA4854
+CUFCA5654,Marvin Windows and Doors,Clad Ultimate French Casement,56,54,Yes,DP40,5654 FR CSMT,CUFCA5654
+CUFCA6054,Marvin Windows and Doors,Clad Ultimate French Casement,60,54,Yes,DP30,6054 FR CSMT,CUFCA6054
+
+CUPFCA3656,Marvin Windows and Doors,Clad Ultimate French Casement,36,56,Yes,DP40,3656 FR CSMT,CUPFCA3656
+CUFCA4056,Marvin Windows and Doors,Clad Ultimate French Casement,40,56,Yes,DP40,4056 FR CSMT,CUFCA4056
+CUFCA4856,Marvin Windows and Doors,Clad Ultimate French Casement,48,56,Yes,DP40,4856 FR CSMT,CUFCA4856
+CUFCA5656,Marvin Windows and Doors,Clad Ultimate French Casement,56,56,Yes,DP40,5656 FR CSMT,CUFCA5656
+CUFCA6056,Marvin Windows and Doors,Clad Ultimate French Casement,60,56,Yes,DP30,6056 FR CSMT,CUFCA6056
+
+CUPFCA3660,Marvin Windows and Doors,Clad Ultimate French Casement,36,60,Yes,DP40,3660 FR CSMT,CUPFCA3660
+CUFCA4060,Marvin Windows and Doors,Clad Ultimate French Casement,40,60,Yes,DP40,4060 FR CSMT,CUFCA4060
+CUFCA4860,Marvin Windows and Doors,Clad Ultimate French Casement,48,60,Yes,DP40,4860 FR CSMT,CUFCA4860
+CUFCA5660,Marvin Windows and Doors,Clad Ultimate French Casement,56,60,Yes,N/R,5660 FR CSMT,CUFCA5660
+CUFCA6060,Marvin Windows and Doors,Clad Ultimate French Casement,60,60,Yes,N/R,6060 FR CSMT,CUFCA6060
+
+CUPFCA3664,Marvin Windows and Doors,Clad Ultimate French Casement,36,64,Yes,DP40,3664 FR CSMT,CUPFCA3664
+CUFCA4064,Marvin Windows and Doors,Clad Ultimate French Casement,40,64,Yes,DP40,4064 FR CSMT,CUFCA4064
+CUFCA4864,Marvin Windows and Doors,Clad Ultimate French Casement,48,64,Yes,DP40,4864 FR CSMT,CUFCA4864
+CUFCA5664,Marvin Windows and Doors,Clad Ultimate French Casement,56,64,Yes,N/R,5664 FR CSMT,CUFCA5664
+CUFCA6064,Marvin Windows and Doors,Clad Ultimate French Casement,60,64,Yes,N/R,6064 FR CSMT,CUFCA6064
+
+CUPFCA3672,Marvin Windows and Doors,Clad Ultimate French Casement,36,72,Yes,N/R,3672 FR CSMT,CUPFCA3672
+CUFCA4072,Marvin Windows and Doors,Clad Ultimate French Casement,40,72,Yes,N/R,4072 FR CSMT,CUFCA4072
+CUFCA4872,Marvin Windows and Doors,Clad Ultimate French Casement,48,72,Yes,N/R,4872 FR CSMT,CUFCA4872
+CUFCA5672,Marvin Windows and Doors,Clad Ultimate French Casement,56,72,Yes,N/R,5672 FR CSMT,CUFCA5672
+CUFCA6072,Marvin Windows and Doors,Clad Ultimate French Casement,60,72,Yes,N/R,6072 FR CSMT,CUFCA6072
+
+

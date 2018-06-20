@@ -1,0 +1,18 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height Door##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUOFD6068,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,72,80,DP40,7280 FR DOOR,CUOFD6068
+CUOFD6070,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,72,84,DP40,7284 FR DOOR,CUOFD6070
+CUOFD6080,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,72,96,DP40,7296 FR DOOR,CUOFD6080
+CUOFD7668,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,90,80,DP30,9080 FR DOOR,CUOFD7668
+CUOFD7670,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,90,84,DP30,9084 FR DOOR,CUOFD7670
+CUOFD7680,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,90,96,DP30,9096 FR DOOR,CUOFD7680
+CUOFD8068,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,96,80,DP40,9680 FR DOOR,CUOFD8068
+CUOFD8070,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,96,84,DP40,9684 FR DOOR,CUOFD8070
+CUOFD8080,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,96,96,DP40,9696 FR DOOR,CUOFD8080
+CUOFD9066,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,108,78,DP40,10878 FR DOOR,CUOFD9066
+CUOFD9068,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,108,80,DP40,10880 FR DOOR,CUOFD9068
+CUOFD9070,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,108,84,DP40,10884 FR DOOR,CUOFD9070
+CUOFD9080,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,108,96,DP40,10896 FR DOOR,CUOFD9080
+CUOFD10668,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,126,80,DP40,12680 FR DOOR,CUOFD10668
+CUOFD10670,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,126,84,DP40,12684 FR DOOR,CUOFD10670
+CUOFD10680,Marvin Windows and Doors,Clad Ultimate Outswing French Door-DG Transom,126,96,DP40,12696 FR DOOR,CUOFD10680
+

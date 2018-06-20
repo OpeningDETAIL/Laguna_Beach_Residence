@@ -1,0 +1,306 @@
+,Manufacturer##other##,Door Type##other##,Number of Panels##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##,Option Choice_Configuration##other##
+
+CMOBFD2668-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,30,80,DP50,3080 BFLD DOOR,CMOBFD2668,2
+CMOBFD2670-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,30,84,DP50,3084 BFLD DOOR,CMOBFD2670,2
+CMOBFD2680-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,30,96,DP50,3096 BFLD DOOR,CMOBFD2680,2
+CMOBFD2690-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,30,108,DP40,30108 BFLD DOOR,CMOBFD2690,2
+CMOBFD26100-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,30,120,DP40,30120 BFLD DOOR,CMOBFD26100,2
+
+CMOBFD3068-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,36,80,DP50,3680 BFLD DOOR,CMOBFD3068,2
+CMOBFD3070-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,36,84,DP50,3684 BFLD DOOR,CMOBFD3070,2
+CMOBFD3080-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,36,96,DP50,3696 BFLD DOOR,CMOBFD3080,2
+CMOBFD3090-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,36,108,DP40,36108 BFLD DOOR,CMOBFD3090,2
+CMOBFD30100-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,36,120,DP40,36120 BFLD DOOR,CMOBFD30100,2
+
+CMOBFD3668-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,42,80,DP50,4280 BFLD DOOR,CMOBFD3668,2
+CMOBFD3670-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,42,84,DP50,4284 BFLD DOOR,CMOBFD3670,2
+CMOBFD3680-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,42,96,DP50,4296 BFLD DOOR,CMOBFD3680,2
+CMOBFD3690-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,42,108,DP40,42108 BFLD DOOR,CMOBFD3690,2
+CMOBFD36100-1P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,1,42,120,DP40,42120 BFLD DOOR,CMOBFD36100,2
+
+CMOBFD5068-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,60,80,DP50,6080 BFLD DOOR,CMOBFD5068,3
+CMOBFD5070-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,60,84,DP50,6084 BFLD DOOR,CMOBFD5070,3
+CMOBFD5080-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,60,96,DP50,6096 BFLD DOOR,CMOBFD5080,3
+CMOBFD5090-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,60,108,DP40,60108 BFLD DOOR,CMOBFD5090,3
+CMOBFD50100-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,60,120,DP40,60120 BFLD DOOR,CMOBFD50100,3
+
+CMOBFD6068-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,72,80,DP50,7280 BFLD DOOR,CMOBFD6068,3
+CMOBFD6070-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,72,84,DP50,7284 BFLD DOOR,CMOBFD6070,3
+CMOBFD6080-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,72,96,DP50,7296 BFLD DOOR,CMOBFD6080,3
+CMOBFD6090-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,72,108,DP40,72108 BFLD DOOR,CMOBFD6090,3
+CMOBFD60100-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,72,120,DP40,72120 BFLD DOOR,CMOBFD60100,3
+
+CMOBFD7068-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,84,80,DP50,8480 BFLD DOOR,CMOBFD7068,3
+CMOBFD7070-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,84,84,DP50,8484 BFLD DOOR,CMOBFD7070,3
+CMOBFD7080-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,84,96,DP50,8496 BFLD DOOR,CMOBFD7080,3
+CMOBFD7090-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,84,108,DP40,84108 BFLD DOOR,CMOBFD7090,3
+CMOBFD70100-2P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,2,84,120,DP40,84120 BFLD DOOR,CMOBFD70100,3
+
+CMOBFD7668-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,90,80,DP50,9080 BFLD DOOR,CMOBFD7668,5
+CMOBFD7670-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,90,84,DP50,9084 BFLD DOOR,CMOBFD7670,5
+CMOBFD7680-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,90,96,DP50,9096 BFLD DOOR,CMOBFD7680,5
+CMOBFD7690-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,90,108,DP40,90108 BFLD DOOR,CMOBFD7690,5
+CMOBFD76100-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,90,120,DP40,90120 BFLD DOOR,CMOBFD76100,5
+
+CMOBFD9068-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,108,80,DP50,10880 BFLD DOOR,CMOBFD9068,5
+CMOBFD9070-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,108,84,DP50,10884 BFLD DOOR,CMOBFD9070,5
+CMOBFD9080-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,108,96,DP50,10896 BFLD DOOR,CMOBFD9080,5
+CMOBFD9090-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,108,108,DP40,108108 BFLD DOOR,CMOBFD9090,5
+CMOBFD90100-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,108,120,DP40,108120 BFLD DOOR,CMOBFD90100,5
+
+CMOBFD10668-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,126,80,DP50,12680 BFLD DOOR,CMOBFD10668,5
+CMOBFD10670-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,126,84,DP50,12684 BFLD DOOR,CMOBFD10670,5
+CMOBFD10680-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,126,96,DP50,12696 BFLD DOOR,CMOBFD10680,5
+CMOBFD10690-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,126,108,DP40,126108 BFLD DOOR,CMOBFD10690,5
+CMOBFD106100-3P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,3,126,120,DP40,126120 BFLD DOOR,CMOBFD106100,5
+
+CMOBFD10068-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,120,80,DP50,12080 BFLD DOOR,CMOBFD10068,8
+CMOBFD10070-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,120,84,DP50,12084 BFLD DOOR,CMOBFD10070,8
+CMOBFD10080-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,120,96,DP50,12096 BFLD DOOR,CMOBFD10080,8
+CMOBFD10090-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,120,108,DP40,120108 BFLD DOOR,CMOBFD10090,8
+CMOBFD100100-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,120,120,DP40,120120 BFLD DOOR,CMOBFD100100,8
+
+CMOBFD12068-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,144,80,DP50,14480 BFLD DOOR,CMOBFD12068,8
+CMOBFD12070-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,144,84,DP50,14484 BFLD DOOR,CMOBFD12070,8
+CMOBFD12080-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,144,96,DP50,14496 BFLD DOOR,CMOBFD12080,8
+CMOBFD12090-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,144,108,DP40,144108 BFLD DOOR,CMOBFD12090,8
+CMOBFD120100-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,144,120,DP40,144120 BFLD DOOR,CMOBFD120100,8
+
+CMOBFD14068-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,168,80,DP50,16880 BFLD DOOR,CMOBFD14068,8
+CMOBFD14070-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,168,84,DP50,16884 BFLD DOOR,CMOBFD14070,8
+CMOBFD14080-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,168,96,DP50,16896 BFLD DOOR,CMOBFD14080,8
+CMOBFD14090-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,168,108,DP40,168108 BFLD DOOR,CMOBFD14090,8
+CMOBFD140100-4P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,4,168,120,DP40,168120 BFLD DOOR,CMOBFD140100,8
+
+CMOBFD12668-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,150,80,DP50,15080 BFLD DOOR,CMOBFD12668,11
+CMOBFD12670-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,150,84,DP50,15084 BFLD DOOR,CMOBFD12670,11
+CMOBFD12680-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,150,96,DP50,15096 BFLD DOOR,CMOBFD12680,11
+CMOBFD12690-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,150,108,DP40,150108 BFLD DOOR,CMOBFD12690,11
+CMOBFD126100-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,150,120,DP40,150120 BFLD DOOR,CMOBFD126100,11
+
+CMOBFD15068-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,180,80,DP50,18080 BFLD DOOR,CMOBFD15068,11
+CMOBFD15070-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,180,84,DP50,18084 BFLD DOOR,CMOBFD15070,11
+CMOBFD15080-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,180,96,DP50,18096 BFLD DOOR,CMOBFD15080,11
+CMOBFD15090-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,180,108,DP40,180108 BFLD DOOR,CMOBFD15090,11
+CMOBFD150100-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,180,120,DP40,180120 BFLD DOOR,CMOBFD150100,11
+
+CMOBFD17668-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,210,80,DP50,21080 BFLD DOOR,CMOBFD17668,11
+CMOBFD17670-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,210,84,DP50,21084 BFLD DOOR,CMOBFD17670,11
+CMOBFD17680-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,210,96,DP50,21096 BFLD DOOR,CMOBFD17680,11
+CMOBFD17690-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,210,108,DP40,210108 BFLD DOOR,CMOBFD17690,11
+CMOBFD176100-5P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,5,210,120,DP40,210120 BFLD DOOR,CMOBFD176100,11
+
+CMOBFD15068-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,180,80,DP50,18080 BFLD DOOR,CMOBFD15068,15
+CMOBFD15070-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,180,84,DP50,18084 BFLD DOOR,CMOBFD15070,15
+CMOBFD15080-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,180,96,DP50,18096 BFLD DOOR,CMOBFD15080,15
+CMOBFD15090-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,180,108,DP40,180108 BFLD DOOR,CMOBFD15090,15
+CMOBFD150100-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,180,120,DP40,180120 BFLD DOOR,CMOBFD150100,15
+
+CMOBFD18068-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,216,80,DP50,21680 BFLD DOOR,CMOBFD18068,15
+CMOBFD18070-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,216,84,DP50,21684 BFLD DOOR,CMOBFD18070,15
+CMOBFD18080-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,216,96,DP50,21696 BFLD DOOR,CMOBFD18080,15
+CMOBFD18090-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,216,108,DP40,216108 BFLD DOOR,CMOBFD18090,15
+CMOBFD180100-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,216,120,DP40,216120 BFLD DOOR,CMOBFD180100,15
+
+CMOBFD21068-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,252,80,DP50,25280 BFLD DOOR,CMOBFD21068,15
+CMOBFD21070-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,252,84,DP50,25284 BFLD DOOR,CMOBFD21070,15
+CMOBFD21080-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,252,96,DP50,25296 BFLD DOOR,CMOBFD21080,15
+CMOBFD21090-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,252,108,DP40,252108 BFLD DOOR,CMOBFD21090,15
+CMOBFD210100-6P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,6,252,120,DP40,252120 BFLD DOOR,CMOBFD210100,15
+
+CMOBFD17668-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,210,80,Not Rated,21080 BFLD DOOR,CMOBFD17668,19
+CMOBFD17670-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,210,84,Not Rated,21084 BFLD DOOR,CMOBFD17670,19
+CMOBFD17680-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,210,96,Not Rated,21096 BFLD DOOR,CMOBFD17680,19
+CMOBFD17690-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,210,108,Not Rated,210108 BFLD DOOR,CMOBFD17690,19
+CMOBFD176100-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,210,120,Not Rated,210120 BFLD DOOR,CMOBFD176100,19
+
+CMOBFD21068-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,252,80,Not Rated,25280 BFLD DOOR,CMOBFD21068,19
+CMOBFD21070-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,252,84,Not Rated,25284 BFLD DOOR,CMOBFD21070,19
+CMOBFD21080-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,252,96,Not Rated,25296 BFLD DOOR,CMOBFD21080,19
+CMOBFD21090-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,252,108,Not Rated,252108 BFLD DOOR,CMOBFD21090,19
+CMOBFD210100-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,252,120,Not Rated,252120 BFLD DOOR,CMOBFD210100,19
+
+CMOBFD24668-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,294,80,Not Rated,25280 BFLD DOOR,CMOBFD24668,19
+CMOBFD24670-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,294,84,Not Rated,25284 BFLD DOOR,CMOBFD24670,19
+CMOBFD24680-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,294,96,Not Rated,25296 BFLD DOOR,CMOBFD24680,19
+CMOBFD24690-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,294,108,Not Rated,252108 BFLD DOOR,CMOBFD24690,19
+CMOBFD246100-7P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,7,294,120,Not Rated,252120 BFLD DOOR,CMOBFD246100,19
+
+CMOBFD20068-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,240,80,Not Rated,24080 BFLD DOOR,CMOBFD20068,24
+CMOBFD20070-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,240,84,Not Rated,24084 BFLD DOOR,CMOBFD20070,24
+CMOBFD20080-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,240,96,Not Rated,24096 BFLD DOOR,CMOBFD20080,24
+CMOBFD20090-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,240,108,Not Rated,240108 BFLD DOOR,CMOBFD20090,24
+CMOBFD200100-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,240,120,Not Rated,240120 BFLD DOOR,CMOBFD200100,24
+
+CMOBFD24068-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,288,80,Not Rated,28880 BFLD DOOR,CMOBFD24068,24
+CMOBFD24070-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,288,84,Not Rated,28884 BFLD DOOR,CMOBFD24070,24
+CMOBFD24080-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,288,96,Not Rated,28896 BFLD DOOR,CMOBFD24080,24
+CMOBFD24090-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,288,108,Not Rated,288108 BFLD DOOR,CMOBFD24090,24
+CMOBFD240100-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,288,120,Not Rated,288120 BFLD DOOR,CMOBFD240100,24
+
+CMOBFD28068-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,336,80,Not Rated,33680 BFLD DOOR,CMOBFD28068,24
+CMOBFD28070-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,336,84,Not Rated,33684 BFLD DOOR,CMOBFD28070,24
+CMOBFD28080-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,336,96,Not Rated,33696 BFLD DOOR,CMOBFD28080,24
+CMOBFD28090-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,336,108,Not Rated,336108 BFLD DOOR,CMOBFD28090,24
+CMOBFD280100-8P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,8,336,120,Not Rated,336120 BFLD DOOR,CMOBFD280100,24
+
+CMOBFD22668-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,270,80,Not Rated,27080 BFLD DOOR,CMOBFD22668,29
+CMOBFD22670-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,270,84,Not Rated,27084 BFLD DOOR,CMOBFD22670,29
+CMOBFD22680-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,270,96,Not Rated,27096 BFLD DOOR,CMOBFD22680,29
+CMOBFD22690-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,270,108,Not Rated,270108 BFLD DOOR,CMOBFD22690,29
+CMOBFD226100-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,270,120,Not Rated,270120 BFLD DOOR,CMOBFD226100,29
+
+CMOBFD27068-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,324,80,Not Rated,32480 BFLD DOOR,CMOBFD27068,29
+CMOBFD27070-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,324,84,Not Rated,32484 BFLD DOOR,CMOBFD27070,29
+CMOBFD27080-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,324,96,Not Rated,32496 BFLD DOOR,CMOBFD27080,29
+CMOBFD27090-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,324,108,Not Rated,324108 BFLD DOOR,CMOBFD27090,29
+CMOBFD270100-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,324,120,Not Rated,324120 BFLD DOOR,CMOBFD270100,29
+
+CMOBFD31668-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,378,80,Not Rated,37880 BFLD DOOR,CMOBFD31668,29
+CMOBFD31670-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,378,84,Not Rated,37884 BFLD DOOR,CMOBFD31670,29
+CMOBFD31680-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,378,96,Not Rated,37896 BFLD DOOR,CMOBFD31680,29
+CMOBFD31690-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,378,108,Not Rated,378108 BFLD DOOR,CMOBFD31690,29
+CMOBFD316100-9P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,9,378,120,Not Rated,378120 BFLD DOOR,CMOBFD316100,29
+
+CMOBFD25068-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,300,80,Not Rated,30080 BFLD DOOR,CMOBFD25068,33
+CMOBFD25070-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,300,84,Not Rated,30084 BFLD DOOR,CMOBFD25070,33
+CMOBFD25080-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,300,96,Not Rated,30096 BFLD DOOR,CMOBFD25080,33
+CMOBFD25090-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,300,108,Not Rated,300108 BFLD DOOR,CMOBFD25090,33
+CMOBFD250100-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,300,120,Not Rated,300120 BFLD DOOR,CMOBFD250100,33
+
+CMOBFD30068-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,360,80,Not Rated,36080 BFLD DOOR,CMOBFD30068,33
+CMOBFD30070-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,360,84,Not Rated,36084 BFLD DOOR,CMOBFD30070,33
+CMOBFD30080-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,360,96,Not Rated,36096 BFLD DOOR,CMOBFD30080,33
+CMOBFD30090-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,360,108,Not Rated,360108 BFLD DOOR,CMOBFD30090,33
+CMOBFD300100-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,360,120,Not Rated,360120 BFLD DOOR,CMOBFD300100,33
+
+CMOBFD35068-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,420,80,Not Rated,42080 BFLD DOOR,CMOBFD35068,33
+CMOBFD35070-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,420,84,Not Rated,42084 BFLD DOOR,CMOBFD35070,33
+CMOBFD35080-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,420,96,Not Rated,42096 BFLD DOOR,CMOBFD35080,33
+CMOBFD35090-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,420,108,Not Rated,420108 BFLD DOOR,CMOBFD35090,33
+CMOBFD350100-10P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,10,420,120,Not Rated,420120 BFLD DOOR,CMOBFD350100,33
+
+CMOBFD27668-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,330,80,Not Rated,33080 BFLD DOOR,CMOBFD27668,36
+CMOBFD27670-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,330,84,Not Rated,33084 BFLD DOOR,CMOBFD27670,36
+CMOBFD27680-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,330,96,Not Rated,33096 BFLD DOOR,CMOBFD27680,36
+CMOBFD27690-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,330,108,Not Rated,330108 BFLD DOOR,CMOBFD27690,36
+CMOBFD276100-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,330,120,Not Rated,330120 BFLD DOOR,CMOBFD276100,36
+
+CMOBFD33068-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,396,80,Not Rated,39680 BFLD DOOR,CMOBFD33068,36
+CMOBFD33070-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,396,84,Not Rated,39684 BFLD DOOR,CMOBFD33070,36
+CMOBFD33080-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,396,96,Not Rated,39696 BFLD DOOR,CMOBFD33080,36
+CMOBFD33090-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,396,108,Not Rated,396108 BFLD DOOR,CMOBFD33090,36
+CMOBFD330100-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,396,120,Not Rated,396120 BFLD DOOR,CMOBFD330100,36
+
+CMOBFD38668-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,462,80,Not Rated,39680 BFLD DOOR,CMOBFD38668,36
+CMOBFD38670-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,462,84,Not Rated,39684 BFLD DOOR,CMOBFD38670,36
+CMOBFD38680-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,462,96,Not Rated,39696 BFLD DOOR,CMOBFD38680,36
+CMOBFD38690-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,462,108,Not Rated,396108 BFLD DOOR,CMOBFD38690,36
+CMOBFD386100-11P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,11,462,120,Not Rated,396120 BFLD DOOR,CMOBFD386100,36
+
+CMOBFD30068-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,360,80,Not Rated,36080 BFLD DOOR,CMOBFD30068,39
+CMOBFD30070-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,360,84,Not Rated,36084 BFLD DOOR,CMOBFD30070,39
+CMOBFD30080-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,360,96,Not Rated,36096 BFLD DOOR,CMOBFD30080,39
+CMOBFD30090-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,360,108,Not Rated,360108 BFLD DOOR,CMOBFD30090,39
+CMOBFD300100-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,360,120,Not Rated,360120 BFLD DOOR,CMOBFD300100,39
+
+CMOBFD36068-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,432,80,Not Rated,43280 BFLD DOOR,CMOBFD36068,39
+CMOBFD36070-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,432,84,Not Rated,43284 BFLD DOOR,CMOBFD36070,39
+CMOBFD36080-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,432,96,Not Rated,43296 BFLD DOOR,CMOBFD36080,39
+CMOBFD36090-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,432,108,Not Rated,432108 BFLD DOOR,CMOBFD36090,39
+CMOBFD360100-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,432,120,Not Rated,432120 BFLD DOOR,CMOBFD360100,39
+
+CMOBFD42068-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,504,80,Not Rated,50480 BFLD DOOR,CMOBFD42068,39
+CMOBFD42070-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,504,84,Not Rated,50484 BFLD DOOR,CMOBFD42070,39
+CMOBFD42080-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,504,96,Not Rated,50496 BFLD DOOR,CMOBFD42080,39
+CMOBFD42090-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,504,108,Not Rated,504108 BFLD DOOR,CMOBFD42090,39
+CMOBFD420100-12P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,12,504,120,Not Rated,504120 BFLD DOOR,CMOBFD420100,39
+
+CMOBFD32668-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,390,80,Not Rated,39080 BFLD DOOR,CMOBFD32668,41
+CMOBFD32670-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,390,84,Not Rated,39084 BFLD DOOR,CMOBFD32670,41
+CMOBFD32680-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,390,96,Not Rated,39096 BFLD DOOR,CMOBFD32680,41
+CMOBFD32690-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,390,108,Not Rated,390108 BFLD DOOR,CMOBFD32690,41
+CMOBFD326100-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,390,120,Not Rated,390120 BFLD DOOR,CMOBFD326100,41
+
+CMOBFD39068-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,468,80,Not Rated,46880 BFLD DOOR,CMOBFD39068,41
+CMOBFD39070-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,468,84,Not Rated,46884 BFLD DOOR,CMOBFD39070,41
+CMOBFD39080-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,468,96,Not Rated,46896 BFLD DOOR,CMOBFD39080,41
+CMOBFD39090-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,468,108,Not Rated,468108 BFLD DOOR,CMOBFD39090,41
+CMOBFD390100-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,468,120,Not Rated,468120 BFLD DOOR,CMOBFD390100,41
+
+CMOBFD45668-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,546,80,Not Rated,54680 BFLD DOOR,CMOBFD45668,41
+CMOBFD45670-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,546,84,Not Rated,54684 BFLD DOOR,CMOBFD45670,41
+CMOBFD45680-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,546,96,Not Rated,54696 BFLD DOOR,CMOBFD45680,41
+CMOBFD45690-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,546,108,Not Rated,546108 BFLD DOOR,CMOBFD45690,41
+CMOBFD456100-13P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,13,546,120,Not Rated,546120 BFLD DOOR,CMOBFD456100,41
+
+CMOBFD35068-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,420,80,Not Rated,42080 BFLD DOOR,CMOBFD35068,43
+CMOBFD35070-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,420,84,Not Rated,42084 BFLD DOOR,CMOBFD35070,43
+CMOBFD35080-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,420,96,Not Rated,42096 BFLD DOOR,CMOBFD35080,43
+CMOBFD35090-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,420,108,Not Rated,420108 BFLD DOOR,CMOBFD35090,43
+CMOBFD350100-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,420,120,Not Rated,420120 BFLD DOOR,CMOBFD350100,43
+
+CMOBFD42068-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,504,80,Not Rated,50480 BFLD DOOR,CMOBFD42068,43
+CMOBFD42070-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,504,84,Not Rated,50484 BFLD DOOR,CMOBFD42070,43
+CMOBFD42080-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,504,96,Not Rated,50496 BFLD DOOR,CMOBFD42080,43
+CMOBFD42090-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,504,108,Not Rated,504108 BFLD DOOR,CMOBFD42090,43
+CMOBFD420100-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,504,120,Not Rated,504120 BFLD DOOR,CMOBFD420100,43
+
+CMOBFD49068-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,588,80,Not Rated,58880 BFLD DOOR,CMOBFD49068,43
+CMOBFD49070-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,588,84,Not Rated,58884 BFLD DOOR,CMOBFD49070,43
+CMOBFD49080-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,588,96,Not Rated,58896 BFLD DOOR,CMOBFD49080,43
+CMOBFD49090-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,588,108,Not Rated,588108 BFLD DOOR,CMOBFD49090,43
+CMOBFD490100-14P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,14,588,120,Not Rated,588120 BFLD DOOR,CMOBFD490100,43
+
+CMOBFD37668-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,450,80,Not Rated,45080 BFLD DOOR,CMOBFD37668,44
+CMOBFD37670-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,450,84,Not Rated,45084 BFLD DOOR,CMOBFD37670,44
+CMOBFD37680-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,450,96,Not Rated,45096 BFLD DOOR,CMOBFD37680,44
+CMOBFD37690-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,450,108,Not Rated,450108 BFLD DOOR,CMOBFD37690,44
+CMOBFD376100-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,450,120,Not Rated,450120 BFLD DOOR,CMOBFD376100,44
+
+CMOBFD45068-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,540,80,Not Rated,54080 BFLD DOOR,CMOBFD45068,44
+CMOBFD45070-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,540,84,Not Rated,54084 BFLD DOOR,CMOBFD45070,44
+CMOBFD45080-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,540,96,Not Rated,54096 BFLD DOOR,CMOBFD45080,44
+CMOBFD45090-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,540,108,Not Rated,540108 BFLD DOOR,CMOBFD45090,44
+CMOBFD450100-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,540,120,Not Rated,540120 BFLD DOOR,CMOBFD450100,44
+
+CMOBFD52668-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,630,80,Not Rated,63080 BFLD DOOR,CMOBFD52668,44
+CMOBFD52670-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,630,84,Not Rated,63084 BFLD DOOR,CMOBFD52670,44
+CMOBFD52680-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,630,96,Not Rated,63096 BFLD DOOR,CMOBFD52680,44
+CMOBFD52690-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,630,108,Not Rated,630108 BFLD DOOR,CMOBFD52690,44
+CMOBFD526100-15P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,15,630,120,Not Rated,630120 BFLD DOOR,CMOBFD526100,44
+
+CMOBFD40068-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,480,80,Not Rated,48080 BFLD DOOR,CMOBFD40068,45
+CMOBFD40070-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,480,84,Not Rated,48084 BFLD DOOR,CMOBFD40070,45
+CMOBFD40080-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,480,96,Not Rated,48096 BFLD DOOR,CMOBFD40080,45
+CMOBFD40090-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,480,108,Not Rated,480108 BFLD DOOR,CMOBFD40090,45
+CMOBFD400100-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,480,120,Not Rated,480120 BFLD DOOR,CMOBFD400100,45
+
+CMOBFD48068-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,576,80,Not Rated,57680 BFLD DOOR,CMOBFD48068,45
+CMOBFD48070-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,576,84,Not Rated,57684 BFLD DOOR,CMOBFD48070,45
+CMOBFD48080-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,576,96,Not Rated,57696 BFLD DOOR,CMOBFD48080,45
+CMOBFD48090-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,576,108,Not Rated,576108 BFLD DOOR,CMOBFD48090,45
+CMOBFD480100-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,576,120,Not Rated,576120 BFLD DOOR,CMOBFD480100,45
+
+CMOBFD56068-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,672,80,Not Rated,67280 BFLD DOOR,CMOBFD56068,45
+CMOBFD56070-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,672,84,Not Rated,67284 BFLD DOOR,CMOBFD56070,45
+CMOBFD56080-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,672,96,Not Rated,67296 BFLD DOOR,CMOBFD56080,45
+CMOBFD56090-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,672,108,Not Rated,672108 BFLD DOOR,CMOBFD56090,45
+CMOBFD560100-16P,Marvin Windows and Doors,Clad Ultimate Outswing Bi-Fold Door,16,672,120,Not Rated,672120 BFLD DOOR,CMOBFD560100,45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

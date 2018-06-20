@@ -1,0 +1,5 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUOFDT6216,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Sidelite Transom,74,18,DP40,7418 FR DR TR,CUOFDT6216
+CUOFDT6220,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Sidelite Transom,74,24,DP40,7424 FR DR TR,CUOFDT6220
+CUOFDT6226,Marvin Windows and Doors,Clad Ultimate Outswing French Door IS Sidelite Transom,74,30,DP40,7430 FR DR TR,CUOFDT6226
+

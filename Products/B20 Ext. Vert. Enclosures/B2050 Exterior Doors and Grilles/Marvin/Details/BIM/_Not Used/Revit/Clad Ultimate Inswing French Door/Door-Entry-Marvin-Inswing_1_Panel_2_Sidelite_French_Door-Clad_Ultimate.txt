@@ -1,0 +1,5 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUIFD6268 ENTRANCE,Marvin Windows and Doors,Clad Ultimate Inswing French Door Entrance System,74,80,Not Rated,7480 FR DOOR,CUIFD6268 ENTRANCE
+CUIFD6270 ENTRANCE,Marvin Windows and Doors,Clad Ultimate Inswing French Door Entrance System,74,84,Not Rated,7484 FR DOOR,CUIFD6270 ENTRANCE
+CUIFD6280 ENTRANCE,Marvin Windows and Doors,Clad Ultimate Inswing French Door Entrance System,74,96,Not Rated,7496 FR DOOR,CUIFD6280 ENTRANCE
+CUIFD6290 ENTRANCE,Marvin Windows and Doors,Clad Ultimate Inswing French Door Entrance System,74,108,Not Rated,74108 FR DOOR,CUIFD6290 ENTRANCE

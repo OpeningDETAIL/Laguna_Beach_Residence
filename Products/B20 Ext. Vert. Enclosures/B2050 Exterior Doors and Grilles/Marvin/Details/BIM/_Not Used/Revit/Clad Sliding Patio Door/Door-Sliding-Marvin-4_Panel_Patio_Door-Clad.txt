@@ -1,0 +1,7 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CSPD10068,Marvin Windows and Doors,Clad Sliding Patio Door,120,80,DP25,12080 SL DOOR,CSPD10068
+CSPD12068,Marvin Windows and Doors,Clad Sliding Patio Door,144,80,DP25,14480 SL DOOR,CSPD12068
+CSPD16068,Marvin Windows and Doors,Clad Sliding Patio Door,192,80,DP25,19280 SL DOOR,CSPD16068
+ 
+CSPD10080,Marvin Windows and Doors,Clad Sliding Patio Door,120,96,DP25,12096 SL DOOR,CSPD10080
+CSPD12080,Marvin Windows and Doors,Clad Sliding Patio Door,144,96,DP25,14496 SL DOOR,CSPD12080

@@ -1,0 +1,72 @@
+,Manufacturer##other##,Door Type##other##,Number of Panels##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+
+
+CULSP6070_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,72,84,Not Rated,6070 LSP DOOR,CULSP6070_PX-XP
+CULSP8070_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,96,84,Not Rated,8070 LSP DOOR,CULSP8070_PX-XP
+CULSP10070_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,120,84,Not Rated,10070 LSP DOOR,CULSP10070_PX-XP
+CULSP12070_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,144,84,Not Rated,12070 LSP DOOR,CULSP12070_PX-XP
+
+CULSP6080_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,72,96,Not Rated,6080 LSP DOOR,CULSP6080_PX-XP
+CULSP8080_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,96,96,Not Rated,8080 LSP DOOR,CULSP8080_PX-XP
+CULSP10080_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,120,96,Not Rated,10080 LSP DOOR,CULSP10080_PX-XP
+CULSP12080_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,144,96,Not Rated,12080 LSP DOOR,CULSP12080_PX-XP
+
+CULSP60100_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,72,120,Not Rated,60100 LSP DOOR,CULSP60100_PX-XP
+CULSP80100_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,96,120,Not Rated,80100 LSP DOOR,CULSP80100_PX-XP
+CULSP100100_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,120,120,Not Rated,100100 LSP DOOR,CULSP100100_PX-XP
+CULSP120100_PX-XP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,2,144,120,Not Rated,120100 LSP DOOR,CULSP120100_PX-XP
+
+
+CULSP12070_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,144,84,Not Rated,12070 LSP DOOR,CULSP12070_PXX-XXP
+CULSP16070_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,192,84,Not Rated,16070 LSP DOOR,CULSP16070_PXX-XXP
+CULSP20070_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,240,84,Not Rated,20070 LSP DOOR,CULSP20070_PXX-XXP
+CULSP24070_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,288,84,Not Rated,24070 LSP DOOR,CULSP24070_PXX-XXP
+
+
+CULSP12080_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,144,96,Not Rated,12080 LSP DOOR,CULSP12080_PXX-XXP
+CULSP16080_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,192,96,Not Rated,16080 LSP DOOR,CULSP16080_PXX-XXP
+CULSP20080_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,240,96,Not Rated,20080 LSP DOOR,CULSP20080_PXX-XXP
+CULSP24080_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,288,96,Not Rated,24080 LSP DOOR,CULSP24080_PXX-XXP
+
+
+CULSP120100_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,144,120,Not Rated,120100 LSP DOOR,CULSP120100_PXX-XXP
+CULSP160100_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,192,120,Not Rated,160100 LSP DOOR,CULSP160100_PXX-XXP
+CULSP200100_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,240,120,Not Rated,200100 LSP DOOR,CULSP200100_PXX-XXP
+CULSP240100_PXX-XXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,4,288,120,Not Rated,240100 LSP DOOR,CULSP240100_PXX-XXP
+
+
+CULSP18070_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,216,84,Not Rated,18070 LSP DOOR,CULSP18070_PXXX-XXXP
+CULSP24070_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,288,84,Not Rated,24070 LSP DOOR,CULSP24070_PXXX-XXXP
+CULSP30070_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,360,84,Not Rated,30070 LSP DOOR,CULSP30070_PXXX-XXXP
+CULSP36070_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,432,84,Not Rated,36070 LSP DOOR,CULSP36070_PXXX-XXXP
+
+
+CULSP18080_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,216,96,Not Rated,18080 LSP DOOR,CULSP18080_PXXX-XXXP
+CULSP24080_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,288,96,Not Rated,24080 LSP DOOR,CULSP24080_PXXX-XXXP
+CULSP30080_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,360,96,Not Rated,30080 LSP DOOR,CULSP30080_PXXX-XXXP
+CULSP36080_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,432,96,Not Rated,36080 LSP DOOR,CULSP36080_PXXX-XXXP
+
+
+CULSP180100_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,216,120,Not Rated,180100 LSP DOOR,CULSP180100_PXXX-XXXP
+CULSP240100_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,288,120,Not Rated,240100 LSP DOOR,CULSP240100_PXXX-XXXP
+CULSP300100_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,360,120,Not Rated,300100 LSP DOOR,CULSP300100_PXXX-XXXP
+CULSP360100_PXXX-XXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,6,432,120,Not Rated,360100 LSP DOOR,CULSP360100_PXXX-XXXP
+
+
+CULSP24070_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,288,84,Not Rated,24070 LSP DOOR,CULSP24070_PXXXX-XXXXP
+CULSP32070_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,384,84,Not Rated,32070 LSP DOOR,CULSP32070_PXXXX-XXXXP
+CULSP40070_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,480,84,Not Rated,40070 LSP DOOR,CULSP40070_PXXXX-XXXXP
+CULSP48070_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,576,84,Not Rated,48070 LSP DOOR,CULSP48070_PXXXX-XXXXP
+
+
+CULSP24080_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,288,96,Not Rated,24080 LSP DOOR,CULSP24080_PXXXX-XXXXP
+CULSP32080_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,384,96,Not Rated,32080 LSP DOOR,CULSP32080_PXXXX-XXXXP
+CULSP40080_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,480,96,Not Rated,40080 LSP DOOR,CULSP40080_PXXXX-XXXXP
+CULSP48080_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,576,96,Not Rated,48080 LSP DOOR,CULSP48080_PXXXX-XXXXP
+
+
+CULSP240100_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,288,120,Not Rated,240100 LSP DOOR,CULSP240100_PXXXX-XXXXP
+CULSP320100_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,384,120,Not Rated,320100 LSP DOOR,CULSP320100_PXXXX-XXXXP
+CULSP400100_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,480,120,Not Rated,400100 LSP DOOR,CULSP400100_PXXXX-XXXXP
+CULSP480100_PXXXX-XXXXP,Marvin Windows and Doors,Clad Ultimate Lift and Slide Pocket Door,8,576,120,Not Rated,480100 LSP DOOR,CULSP480100_PXXXX-XXXXP
+

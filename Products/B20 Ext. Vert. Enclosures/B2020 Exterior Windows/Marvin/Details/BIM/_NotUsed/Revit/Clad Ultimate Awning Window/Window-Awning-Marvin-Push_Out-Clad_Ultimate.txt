@@ -1,0 +1,187 @@
+,Manufacturer##other##,Window Type##other##,Nominal Width##length##inches,Nominal Height##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CUPAWN1614,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,14,DP50,1614 AWNG,CUPAWN1614
+CUPAWN1616,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,16,DP50,1616 AWNG,CUPAWN1616
+CUPAWN1618,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,18,DP50,1618 AWNG,CUPAWN1618
+CUPAWN1620,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,20,DP50,1620 AWNG,CUPAWN1620
+CUPAWN1624,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,24,DP50,1624 AWNG,CUPAWN1624
+CUPAWN1628,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,28,DP50,1628 AWNG,CUPAWN1628
+CUPAWN1632,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,32,DP50,1632 AWNG,CUPAWN1632
+CUPAWN1636,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,36,DP50,1636 AWNG,CUPAWN1636
+CUPAWN1640,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,40,DP50,1640 AWNG,CUPAWN1640
+CUPAWN1644,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,44,DP50,1644 AWNG,CUPAWN1644
+CUPAWN1648,Marvin Windows and Doors,Clad Ultimate Push Out Awning,16,48,DP50,1648 AWNG,CUPAWN1648
+
+
+CUPAWN1814,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,14,DP50,1814 AWNG,CUPAWN1814
+CUPAWN1816,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,16,DP50,1816 AWNG,CUPAWN1816
+CUPAWN1818,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,18,DP50,1818 AWNG,CUPAWN1818
+CUPAWN1820,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,20,DP50,1820 AWNG,CUPAWN1820
+CUPAWN1824,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,24,DP50,1824 AWNG,CUPAWN1824
+CUPAWN1828,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,28,DP50,1828 AWNG,CUPAWN1828
+CUPAWN1832,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,32,DP50,1832 AWNG,CUPAWN1832
+CUPAWN1836,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,36,DP50,1836 AWNG,CUPAWN1836
+CUPAWN1840,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,40,DP50,1840 AWNG,CUPAWN1840
+CUPAWN1844,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,44,DP50,1844 AWNG,CUPAWN1844
+CUPAWN1848,Marvin Windows and Doors,Clad Ultimate Push Out Awning,18,48,DP50,1848 AWNG,CUPAWN1848
+
+CUPAWN2014,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,14,DP50,2014 AWNG,CUPAWN2014
+CUPAWN2016,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,16,DP50,2016 AWNG,CUPAWN2016
+CUPAWN2018,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,18,DP50,2018 AWNG,CUPAWN2018
+CUPAWN2020,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,20,DP50,2020 AWNG,CUPAWN2020
+CUPAWN2024,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,24,DP50,2024 AWNG,CUPAWN2024
+CUPAWN2028,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,28,DP50,2028 AWNG,CUPAWN2028
+CUPAWN2032,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,32,DP50,2032 AWNG,CUPAWN2032
+CUPAWN2036,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,36,DP50,2036 AWNG,CUPAWN2036
+CUPAWN2040,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,40,DP50,2040 AWNG,CUPAWN2040
+CUPAWN2044,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,44,DP50,2044 AWNG,CUPAWN2044
+CUPAWN2048,Marvin Windows and Doors,Clad Ultimate Push Out Awning,20,48,DP50,2048 AWNG,CUPAWN2048
+
+
+CUPAWN2414,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,14,DP50,2414 AWNG,CUPAWN2414
+CUPAWN2416,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,16,DP50,2416 AWNG,CUPAWN2416
+CUPAWN2418,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,18,DP50,2418 AWNG,CUPAWN2418
+CUPAWN2420,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,20,DP50,2420 AWNG,CUPAWN2420
+CUPAWN2424,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,24,DP50,2424 AWNG,CUPAWN2424
+CUPAWN2428,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,28,DP50,2428 AWNG,CUPAWN2428
+CUPAWN2432,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,32,DP50,2432 AWNG,CUPAWN2432
+CUPAWN2436,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,36,DP50,2436 AWNG,CUPAWN2436
+CUPAWN2440,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,40,DP50,2440 AWNG,CUPAWN2440
+CUPAWN2444,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,44,DP50,2444 AWNG,CUPAWN2444
+CUPAWN2448,Marvin Windows and Doors,Clad Ultimate Push Out Awning,24,48,DP50,2448 AWNG,CUPAWN2448
+
+CUPAWN2614,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,14,DP50,2614 AWNG,CUPAWN2614
+CUPAWN2616,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,16,DP50,2616 AWNG,CUPAWN2616
+CUPAWN2618,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,18,DP50,2618 AWNG,CUPAWN2618
+CUPAWN2620,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,20,DP50,2620 AWNG,CUPAWN2620
+CUPAWN2624,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,24,DP50,2624 AWNG,CUPAWN2624
+CUPAWN2628,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,28,DP50,2628 AWNG,CUPAWN2628
+CUPAWN2632,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,32,DP50,2632 AWNG,CUPAWN2632
+CUPAWN2636,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,36,DP50,2636 AWNG,CUPAWN2636
+CUPAWN2640,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,40,DP50,2640 AWNG,CUPAWN2640
+CUPAWN2644,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,44,DP50,2644 AWNG,CUPAWN2644
+CUPAWN2648,Marvin Windows and Doors,Clad Ultimate Push Out Awning,26,48,DP50,2648 AWNG,CUPAWN2648
+
+
+CUPAWN2814,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,14,DP50,2814 AWNG,CUPAWN2814
+CUPAWN2816,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,16,DP50,2816 AWNG,CUPAWN2816
+CUPAWN2818,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,18,DP50,2818 AWNG,CUPAWN2818
+CUPAWN2820,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,20,DP50,2820 AWNG,CUPAWN2820
+CUPAWN2824,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,24,DP50,2824 AWNG,CUPAWN2824
+CUPAWN2828,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,28,DP50,2828 AWNG,CUPAWN2828
+CUPAWN2832,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,32,DP50,2832 AWNG,CUPAWN2832
+CUPAWN2836,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,36,DP50,2836 AWNG,CUPAWN2836
+CUPAWN2840,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,40,DP50,2840 AWNG,CUPAWN2840
+CUPAWN2844,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,44,DP50,2844 AWNG,CUPAWN2844
+CUPAWN2848,Marvin Windows and Doors,Clad Ultimate Push Out Awning,28,48,DP50,2848 AWNG,CUPAWN2848
+
+CUPAWN3014,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,14,DP50,3014 AWNG,CUPAWN3014
+CUPAWN3016,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,16,DP50,3016 AWNG,CUPAWN3016
+CUPAWN3018,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,18,DP50,3018 AWNG,CUPAWN3018
+CUPAWN3020,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,20,DP50,3020 AWNG,CUPAWN3020
+CUPAWN3024,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,24,DP50,3024 AWNG,CUPAWN3024
+CUPAWN3028,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,28,DP50,3028 AWNG,CUPAWN3028
+CUPAWN3032,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,32,DP50,3032 AWNG,CUPAWN3032
+CUPAWN3036,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,36,DP50,3036 AWNG,CUPAWN3036
+CUPAWN3040,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,40,DP50,3040 AWNG,CUPAWN3040
+CUPAWN3044,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,44,DP50,3044 AWNG,CUPAWN3044
+CUPAWN3048,Marvin Windows and Doors,Clad Ultimate Push Out Awning,30,48,DP50,3048 AWNG,CUPAWN3048
+
+CUPAWN3214,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,14,DP50,3214 AWNG,CUPAWN3214
+CUPAWN3216,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,16,DP50,3216 AWNG,CUPAWN3216
+CUPAWN3218,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,18,DP50,3218 AWNG,CUPAWN3218
+CUPAWN3220,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,20,DP50,3220 AWNG,CUPAWN3220
+CUPAWN3224,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,24,DP50,3224 AWNG,CUPAWN3224
+CUPAWN3228,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,28,DP50,3228 AWNG,CUPAWN3228
+CUPAWN3232,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,32,DP50,3232 AWNG,CUPAWN3232
+CUPAWN3236,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,36,DP50,3236 AWNG,CUPAWN3236
+CUPAWN3240,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,40,DP50,3240 AWNG,CUPAWN3240
+CUPAWN3244,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,44,DP50,3244 AWNG,CUPAWN3244
+CUPAWN3248,Marvin Windows and Doors,Clad Ultimate Push Out Awning,32,48,DP50,3248 AWNG,CUPAWN3248
+
+CUPAWN3614,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,14,DP50,3614 AWNG,CUPAWN3614
+CUPAWN3616,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,16,DP50,3616 AWNG,CUPAWN3616
+CUPAWN3618,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,18,DP50,3618 AWNG,CUPAWN3618
+CUPAWN3620,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,20,DP50,3620 AWNG,CUPAWN3620
+CUPAWN3624,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,24,DP50,3624 AWNG,CUPAWN3624
+CUPAWN3628,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,28,DP50,3628 AWNG,CUPAWN3628
+CUPAWN3632,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,32,DP50,3632 AWNG,CUPAWN3632
+CUPAWN3636,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,36,DP50,3636 AWNG,CUPAWN3636
+CUPAWN3640,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,40,DP50,3640 AWNG,CUPAWN3640
+CUPAWN3644,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,44,DP50,3644 AWNG,CUPAWN3644
+CUPAWN3648,Marvin Windows and Doors,Clad Ultimate Push Out Awning,36,48,DP50,3648 AWNG,CUPAWN3648
+
+CUPAWN4014,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,14,DP50,4014 AWNG,CUPAWN4014
+CUPAWN4016,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,16,DP50,4016 AWNG,CUPAWN4016
+CUPAWN4018,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,18,DP50,4018 AWNG,CUPAWN4018
+CUPAWN4020,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,20,DP50,4020 AWNG,CUPAWN4020
+CUPAWN4024,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,24,DP50,4024 AWNG,CUPAWN4024
+CUPAWN4028,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,28,DP50,4028 AWNG,CUPAWN4028
+CUPAWN4032,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,32,DP50,4032 AWNG,CUPAWN4032
+CUPAWN4036,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,36,DP50,4036 AWNG,CUPAWN4036
+CUPAWN4040,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,40,DP50,4040 AWNG,CUPAWN4040
+CUPAWN4044,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,44,DP50,4044 AWNG,CUPAWN4044
+CUPAWN4048,Marvin Windows and Doors,Clad Ultimate Push Out Awning,40,48,DP50,4048 AWNG,CUPAWN4048
+
+CUPAWN4814,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,14,DP50,4814 AWNG,CUPAWN4814
+CUPAWN4816,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,16,DP50,4816 AWNG,CUPAWN4816
+CUPAWN4818,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,18,DP50,4818 AWNG,CUPAWN4818
+CUPAWN4820,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,20,DP50,4820 AWNG,CUPAWN4820
+CUPAWN4824,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,24,DP50,4824 AWNG,CUPAWN4824
+CUPAWN4828,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,28,DP50,4828 AWNG,CUPAWN4828
+CUPAWN4832,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,32,DP50,4832 AWNG,CUPAWN4832
+CUPAWN4836,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,36,DP50,4836 AWNG,CUPAWN4836
+CUPAWN4840,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,40,DP50,4840 AWNG,CUPAWN4840
+CUPAWN4844,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,44,DP50,4844 AWNG,CUPAWN4844
+CUPAWN4848,Marvin Windows and Doors,Clad Ultimate Push Out Awning,48,48,DP50,4848 AWNG,CUPAWN4848
+
+
+CUPAWN5614,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,14,DP50,5614 AWNG,CUPAWN5614
+CUPAWN5616,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,16,DP50,5616 AWNG,CUPAWN5616
+CUPAWN5618,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,18,DP50,5618 AWNG,CUPAWN5618
+CUPAWN5620,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,20,DP50,5620 AWNG,CUPAWN5620
+CUPAWN5624,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,24,DP50,5624 AWNG,CUPAWN5624
+CUPAWN5628,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,28,DP50,5628 AWNG,CUPAWN5628
+CUPAWN5632,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,32,DP50,5632 AWNG,CUPAWN5632
+CUPAWN5636,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,36,DP50,5636 AWNG,CUPAWN5636
+CUPAWN5640,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,40,DP50,5640 AWNG,CUPAWN5640
+CUPAWN5644,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,44,DP50,5644 AWNG,CUPAWN5644
+CUPAWN5648,Marvin Windows and Doors,Clad Ultimate Push Out Awning,56,48,DP50,5648 AWNG,CUPAWN5648
+
+CUPAWN6014,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,14,DP50,6014 AWNG,CUPAWN6014
+CUPAWN6016,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,16,DP50,6016 AWNG,CUPAWN6016
+CUPAWN6018,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,18,DP50,6018 AWNG,CUPAWN6018
+CUPAWN6020,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,20,DP50,6020 AWNG,CUPAWN6020
+CUPAWN6024,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,24,DP50,6024 AWNG,CUPAWN6024
+CUPAWN6028,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,28,DP50,6028 AWNG,CUPAWN6028
+CUPAWN6032,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,32,DP50,6032 AWNG,CUPAWN6032
+CUPAWN6036,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,36,DP50,6036 AWNG,CUPAWN6036
+CUPAWN6040,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,40,DP50,6040 AWNG,CUPAWN6040
+CUPAWN6044,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,44,DP50,6044 AWNG,CUPAWN6044
+CUPAWN6048,Marvin Windows and Doors,Clad Ultimate Push Out Awning,60,48,DP50,6048 AWNG,CUPAWN6048
+
+
+CUPAWN6414,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,14,DP50,6414 AWNG,CUPAWN6414
+CUPAWN6416,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,16,DP50,6416 AWNG,CUPAWN6416
+CUPAWN6418,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,18,DP50,6418 AWNG,CUPAWN6418
+CUPAWN6420,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,20,DP50,6420 AWNG,CUPAWN6420
+CUPAWN6424,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,24,DP50,6424 AWNG,CUPAWN6424
+CUPAWN6428,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,28,DP50,6428 AWNG,CUPAWN6428
+CUPAWN6432,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,32,DP50,6432 AWNG,CUPAWN6432
+CUPAWN6436,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,36,DP50,6436 AWNG,CUPAWN6436
+CUPAWN6440,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,40,DP50,6440 AWNG,CUPAWN6440
+CUPAWN6444,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,44,DP50,6444 AWNG,CUPAWN6444
+CUPAWN6448,Marvin Windows and Doors,Clad Ultimate Push Out Awning,64,48,DP50,6448 AWNG,CUPAWN6448
+
+
+CUPAWN7214,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,14,DP50,7214 AWNG,CUPAWN7214
+CUPAWN7216,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,16,DP50,7216 AWNG,CUPAWN7216
+CUPAWN7218,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,18,DP50,7218 AWNG,CUPAWN7218
+CUPAWN7220,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,20,DP50,7220 AWNG,CUPAWN7220
+CUPAWN7224,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,24,DP50,7224 AWNG,CUPAWN7224
+CUPAWN7228,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,28,DP50,7228 AWNG,CUPAWN7228
+CUPAWN7232,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,32,DP50,7232 AWNG,CUPAWN7232
+CUPAWN7236,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,36,DP50,7236 AWNG,CUPAWN7236
+CUPAWN7240,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,40,DP50,7240 AWNG,CUPAWN7240
+CUPAWN7244,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,44,DP50,7244 AWNG,CUPAWN7244
+CUPAWN7248,Marvin Windows and Doors,Clad Ultimate Push Out Awning,72,48,DP50,7248 AWNG,CUPAWN7248
+

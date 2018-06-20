@@ -1,0 +1,10 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height Door##length##inches,Design Pressure##other##,Description##other##,Model##other##
+CSPD7666,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,90,78,DP30,9078 SL DOOR,CSPD7666
+CSPD9066,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,108,78,DP30,10878 SL DOOR,CSPD9066
+CSPD12066,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,144,78,DP30,14478 SL DOOR,CSPD12066
+CSPD7668,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,90,80,DP30,9080 SL DOOR,CSPD7668
+CSPD9068,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,108,80,DP30,10880 SL DOOR,CSPD9068
+CSPD12068,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,144,80,DP30,14480 SL DOOR,CSPD12068
+CSPD7680,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,90,96,DP30,9096 SL DOOR,CSPD7680
+CSPD9080,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,108,96,DP30,10896 SL DOOR,CSPD9080
+CSPD12080,Marvin Windows and Doors,Clad Sliding Patio Door-DG Transom,144,96,DP30,14496 SL DOOR,CSPD12080

@@ -1,0 +1,10 @@
+,Manufacturer##other##,Door Type##other##,Nominal Width##length##inches,Nominal Height Door##length##inches,Description##other##,Model##other##
+CMCD3070,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,36,84,3684 GL DOOR,CMCD3070
+CMCD3080,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,36,96,3696 GL DOOR,CMCD3080
+CMCD30100,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,36,120,36120 GL DOOR,CMCD30100
+CMCD3670,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,42,84,4284 GL DOOR,CMCD3670
+CMCD3680,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,42,96,4296 GL DOOR,CMCD3680
+CMCD36100,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,42,120,42120 GL DOOR,CMCD36100
+CMCD4070,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,48,84,4884 GL DOOR,CMCD4070
+CMCD4080,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,48,96,4896 GL DOOR,CMCD4880
+CMCD40100,Marvin Windows and Doors,Clad Commercial Door 2.25-DG Transom,48,120,48120 GL DOOR,CMCD40100
