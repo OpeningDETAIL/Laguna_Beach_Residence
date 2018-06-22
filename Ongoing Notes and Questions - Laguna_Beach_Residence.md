@@ -42,9 +42,18 @@ Not in detailing scope....
 -   garage doors
 	- wood - likely T&G cedar or Rift cut white oak
 -->
+
+
+
+- Concealed gutter?
+- insulation in roof joists? batt?
+- Louvers steel or aluminum?
+- sliding doors?
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU5MDc3MzgsLTM0ODY0MTIxMiwtMT
-YxNTQ5NzQ5MCwtMTY4MjcxMTA1MiwtMTg3NDE2NDc2NywtODY3
-NTI0NzcxLC0zNDY1MTc5ODAsLTk3ODU0OTgzNiwtMjAzOTYxND
-I0OSw1OTA1MzU0NjVdfQ==
+eyJoaXN0b3J5IjpbLTEyNjcyNzUzNCwtMjA3NTc4MTc2MywtNz
+Y5OTMwMDMwLC0xNjM1OTA3NzM4LC0xNjM1OTA3NzM4LC0zNDg2
+NDEyMTIsLTE2MTU0OTc0OTAsLTE2ODI3MTEwNTIsLTE4NzQxNj
+Q3NjcsLTg2NzUyNDc3MSwtMzQ2NTE3OTgwLC05Nzg1NDk4MzYs
+LTIwMzk2MTQyNDksNTkwNTM1NDY1XX0=
 -->
