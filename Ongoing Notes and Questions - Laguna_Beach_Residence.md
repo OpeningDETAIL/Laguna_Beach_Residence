@@ -49,11 +49,22 @@ Not in detailing scope....
 - insulation in roof joists? batt?
 - Louvers steel or aluminum?
 - sliding doors?
-- 
+
+
+- radiant heat in concrete slab?
+- cable railing or metal railing?
+- garage door spec?
+
+---
+
+- Runoff edge of back patio
+- gutter and downspout at 2nd floor balconies?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjcyNzUzNCwtMjA3NTc4MTc2MywtNz
-Y5OTMwMDMwLC0xNjM1OTA3NzM4LC0xNjM1OTA3NzM4LC0zNDg2
-NDEyMTIsLTE2MTU0OTc0OTAsLTE2ODI3MTEwNTIsLTE4NzQxNj
-Q3NjcsLTg2NzUyNDc3MSwtMzQ2NTE3OTgwLC05Nzg1NDk4MzYs
-LTIwMzk2MTQyNDksNTkwNTM1NDY1XX0=
+eyJoaXN0b3J5IjpbLTE5MjQ5MjY5NzEsMjA4NDkwNTkzMywtMz
+k4NjkzMDMyLDE4NDQzMzMyNywtMTQ5MzA0OTEwMiwtODExMzQ3
+MjIxLC0xMjY3Mjc1MzQsLTIwNzU3ODE3NjMsLTc2OTkzMDAzMC
+wtMTYzNTkwNzczOCwtMTYzNTkwNzczOCwtMzQ4NjQxMjEyLC0x
+NjE1NDk3NDkwLC0xNjgyNzExMDUyLC0xODc0MTY0NzY3LC04Nj
+c1MjQ3NzEsLTM0NjUxNzk4MCwtOTc4NTQ5ODM2LC0yMDM5NjE0
+MjQ5LDU5MDUzNTQ2NV19
 -->

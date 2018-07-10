@@ -1,0 +1,71 @@
+,Width##LENGTH##INCHES, Height##LENGTH##INCHES,Model##OTHER##,Description##OTHER##,Clad Frame##OTHER##,Frame##OTHER##,Exterior Simulite##OTHER##,Exterior Panel Material##OTHER##
+C-WA-1818 Clad,18,18,C-WA-1818,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-1824 Clad,18,24,C-WA-1824,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-1830 Clad,18,30,C-WA-1830,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-1836 Clad,18,36,C-WA-1836,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-1842 Clad,18,42,C-WA-1842,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-1848 Clad,18,48,C-WA-1848,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-1854 Clad,18,54,C-WA-1854,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-2418 Clad,24,18,C-WA-2418,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-2424 Clad,24,24,C-WA-2424,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-2430 Clad,24,30,C-WA-2430,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-2436 Clad,24,36,C-WA-2436,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-2442 Clad,24,42,C-WA-2442,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-2448 Clad,24,48,C-WA-2448,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-2454 Clad,24,54,C-WA-2454,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3018 Clad,30,18,C-WA-3018,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3024 Clad,30,24,C-WA-3024,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3030 Clad,30,30,C-WA-3030,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3036 Clad,30,36,C-WA-3036,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3042 Clad,30,42,C-WA-3042,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3048 Clad,30,48,C-WA-3048,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3054 Clad,30,54,C-WA-3054,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3618 Clad,36,18,C-WA-3618,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3624 Clad,36,24,C-WA-3624,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3630 Clad,36,30,C-WA-3630,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3636 Clad,36,36,C-WA-3636,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3642 Clad,36,42,C-WA-3642,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3648 Clad,36,48,C-WA-3648,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-3654 Clad,36,54,C-WA-3654,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-4218 Clad,42,18,C-WA-4218,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-4218 Clad,42,24,C-WA-4218,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-4218 Clad,42,30,C-WA-4218,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-4218 Clad,42,36,C-WA-4218,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-4218 Clad,42,42,C-WA-4218,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-4218 Clad,42,48,C-WA-4218,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+C-WA-4218 Clad,42,54,C-WA-4218,Clad Standard Awning Window,1,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001,Paint - Sierra Pacific - White 001
+WA-1818 Wood,18,18,WA-1818,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-1824 Wood,18,24,WA-1824,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-1830 Wood,18,30,WA-1830,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-1836 Wood,18,36,WA-1836,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-1842 Wood,18,42,WA-1842,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-1848 Wood,18,48,WA-1848,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-1854 Wood,18,54,WA-1854,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-2418 Wood,24,18,WA-2418,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-2424 Wood,24,24,WA-2424,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-2430 Wood,24,30,WA-2430,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-2436 Wood,24,36,WA-2436,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-2442 Wood,24,42,WA-2442,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-2448 Wood,24,48,WA-2448,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-2454 Wood,24,54,WA-2454,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3018 Wood,30,18,WA-3018,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3024 Wood,30,24,WA-3024,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3030 Wood,30,30,WA-3030,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3036 Wood,30,36,WA-3036,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3042 Wood,30,42,WA-3042,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3048 Wood,30,48,WA-3048,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3054 Wood,30,54,WA-3054,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3618 Wood,36,18,WA-3618,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3624 Wood,36,24,WA-3624,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3630 Wood,36,30,WA-3630,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3636 Wood,36,36,WA-3636,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3642 Wood,36,42,WA-3642,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3648 Wood,36,48,WA-3648,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-3654 Wood,36,54,WA-3654,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-4218 Wood,42,18,WA-4218,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-4224 Wood,42,24,WA-4224,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-4230 Wood,42,30,WA-4230,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-4236 Wood,42,36,WA-4236,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-4242 Wood,42,42,WA-4242,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-4248 Wood,42,48,WA-4248,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
+WA-4254 Wood,42,54,WA-4254,Wood Standard Awning Window,0,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine,Wood - Sierra Pacific - Pine
